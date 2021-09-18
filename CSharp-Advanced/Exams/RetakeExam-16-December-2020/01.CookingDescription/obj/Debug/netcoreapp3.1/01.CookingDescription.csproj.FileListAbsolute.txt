@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\RetakeExam-16December2020\01.CookingDescription\bin\Debug\netcoreapp3.1\01.CookingDescription.exe
+C:\Users\Desi\source\repos\RetakeExam-16December2020\01.CookingDescription\bin\Debug\netcoreapp3.1\01.CookingDescription.deps.json
+C:\Users\Desi\source\repos\RetakeExam-16December2020\01.CookingDescription\bin\Debug\netcoreapp3.1\01.CookingDescription.runtimeconfig.json
+C:\Users\Desi\source\repos\RetakeExam-16December2020\01.CookingDescription\bin\Debug\netcoreapp3.1\01.CookingDescription.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\RetakeExam-16December2020\01.CookingDescription\bin\Debug\netcoreapp3.1\01.CookingDescription.dll
+C:\Users\Desi\source\repos\RetakeExam-16December2020\01.CookingDescription\bin\Debug\netcoreapp3.1\01.CookingDescription.pdb
+C:\Users\Desi\source\repos\RetakeExam-16December2020\01.CookingDescription\obj\Debug\netcoreapp3.1\01.CookingDescription.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\RetakeExam-16December2020\01.CookingDescription\obj\Debug\netcoreapp3.1\01.CookingDescription.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\RetakeExam-16December2020\01.CookingDescription\obj\Debug\netcoreapp3.1\01.CookingDescription.AssemblyInfo.cs
+C:\Users\Desi\source\repos\RetakeExam-16December2020\01.CookingDescription\obj\Debug\netcoreapp3.1\01.CookingDescription.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\RetakeExam-16December2020\01.CookingDescription\obj\Debug\netcoreapp3.1\01.CookingDescription.dll
+C:\Users\Desi\source\repos\RetakeExam-16December2020\01.CookingDescription\obj\Debug\netcoreapp3.1\01.CookingDescription.pdb
+C:\Users\Desi\source\repos\RetakeExam-16December2020\01.CookingDescription\obj\Debug\netcoreapp3.1\01.CookingDescription.genruntimeconfig.cache

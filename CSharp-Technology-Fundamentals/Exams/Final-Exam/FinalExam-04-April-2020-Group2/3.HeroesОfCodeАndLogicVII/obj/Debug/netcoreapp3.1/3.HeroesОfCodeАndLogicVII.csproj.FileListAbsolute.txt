@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\FinalExam-04April2020Group2\3.HeroesОfCodeАndLogicVII\bin\Debug\netcoreapp3.1\3.HeroesОfCodeАndLogicVII.exe
+C:\Users\Desi\source\repos\FinalExam-04April2020Group2\3.HeroesОfCodeАndLogicVII\bin\Debug\netcoreapp3.1\3.HeroesОfCodeАndLogicVII.deps.json
+C:\Users\Desi\source\repos\FinalExam-04April2020Group2\3.HeroesОfCodeАndLogicVII\bin\Debug\netcoreapp3.1\3.HeroesОfCodeАndLogicVII.runtimeconfig.json
+C:\Users\Desi\source\repos\FinalExam-04April2020Group2\3.HeroesОfCodeАndLogicVII\bin\Debug\netcoreapp3.1\3.HeroesОfCodeАndLogicVII.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\FinalExam-04April2020Group2\3.HeroesОfCodeАndLogicVII\bin\Debug\netcoreapp3.1\3.HeroesОfCodeАndLogicVII.dll
+C:\Users\Desi\source\repos\FinalExam-04April2020Group2\3.HeroesОfCodeАndLogicVII\bin\Debug\netcoreapp3.1\3.HeroesОfCodeАndLogicVII.pdb
+C:\Users\Desi\source\repos\FinalExam-04April2020Group2\3.HeroesОfCodeАndLogicVII\obj\Debug\netcoreapp3.1\3.HeroesОfCodeАndLogicVII.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\FinalExam-04April2020Group2\3.HeroesОfCodeАndLogicVII\obj\Debug\netcoreapp3.1\3.HeroesОfCodeАndLogicVII.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\FinalExam-04April2020Group2\3.HeroesОfCodeАndLogicVII\obj\Debug\netcoreapp3.1\3.HeroesОfCodeАndLogicVII.AssemblyInfo.cs
+C:\Users\Desi\source\repos\FinalExam-04April2020Group2\3.HeroesОfCodeАndLogicVII\obj\Debug\netcoreapp3.1\3.HeroesОfCodeАndLogicVII.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\FinalExam-04April2020Group2\3.HeroesОfCodeАndLogicVII\obj\Debug\netcoreapp3.1\3.HeroesОfCodeАndLogicVII.dll
+C:\Users\Desi\source\repos\FinalExam-04April2020Group2\3.HeroesОfCodeАndLogicVII\obj\Debug\netcoreapp3.1\3.HeroesОfCodeАndLogicVII.pdb
+C:\Users\Desi\source\repos\FinalExam-04April2020Group2\3.HeroesОfCodeАndLogicVII\obj\Debug\netcoreapp3.1\3.HeroesОfCodeАndLogicVII.genruntimeconfig.cache

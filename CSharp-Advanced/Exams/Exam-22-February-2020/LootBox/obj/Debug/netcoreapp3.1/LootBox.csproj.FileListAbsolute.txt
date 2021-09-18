@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\3.Advance\EXAMPreparation\Exam-22Feb2020\LootBox\bin\Debug\netcoreapp3.1\LootBox.exe
+C:\Users\Desi\source\repos\3.Advance\EXAMPreparation\Exam-22Feb2020\LootBox\bin\Debug\netcoreapp3.1\LootBox.deps.json
+C:\Users\Desi\source\repos\3.Advance\EXAMPreparation\Exam-22Feb2020\LootBox\bin\Debug\netcoreapp3.1\LootBox.runtimeconfig.json
+C:\Users\Desi\source\repos\3.Advance\EXAMPreparation\Exam-22Feb2020\LootBox\bin\Debug\netcoreapp3.1\LootBox.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\3.Advance\EXAMPreparation\Exam-22Feb2020\LootBox\bin\Debug\netcoreapp3.1\LootBox.dll
+C:\Users\Desi\source\repos\3.Advance\EXAMPreparation\Exam-22Feb2020\LootBox\bin\Debug\netcoreapp3.1\LootBox.pdb
+C:\Users\Desi\source\repos\3.Advance\EXAMPreparation\Exam-22Feb2020\LootBox\obj\Debug\netcoreapp3.1\LootBox.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\3.Advance\EXAMPreparation\Exam-22Feb2020\LootBox\obj\Debug\netcoreapp3.1\LootBox.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\3.Advance\EXAMPreparation\Exam-22Feb2020\LootBox\obj\Debug\netcoreapp3.1\LootBox.AssemblyInfo.cs
+C:\Users\Desi\source\repos\3.Advance\EXAMPreparation\Exam-22Feb2020\LootBox\obj\Debug\netcoreapp3.1\LootBox.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\3.Advance\EXAMPreparation\Exam-22Feb2020\LootBox\obj\Debug\netcoreapp3.1\LootBox.dll
+C:\Users\Desi\source\repos\3.Advance\EXAMPreparation\Exam-22Feb2020\LootBox\obj\Debug\netcoreapp3.1\LootBox.pdb
+C:\Users\Desi\source\repos\3.Advance\EXAMPreparation\Exam-22Feb2020\LootBox\obj\Debug\netcoreapp3.1\LootBox.genruntimeconfig.cache

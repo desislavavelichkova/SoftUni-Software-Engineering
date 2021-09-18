@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\DataTypesAndVariables-Lab\3.ExactSumОfRealNumbers\bin\Debug\netcoreapp3.1\3.ExactSumОfRealNumbers.exe
+C:\Users\Desi\source\repos\DataTypesAndVariables-Lab\3.ExactSumОfRealNumbers\bin\Debug\netcoreapp3.1\3.ExactSumОfRealNumbers.deps.json
+C:\Users\Desi\source\repos\DataTypesAndVariables-Lab\3.ExactSumОfRealNumbers\bin\Debug\netcoreapp3.1\3.ExactSumОfRealNumbers.runtimeconfig.json
+C:\Users\Desi\source\repos\DataTypesAndVariables-Lab\3.ExactSumОfRealNumbers\bin\Debug\netcoreapp3.1\3.ExactSumОfRealNumbers.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\DataTypesAndVariables-Lab\3.ExactSumОfRealNumbers\bin\Debug\netcoreapp3.1\3.ExactSumОfRealNumbers.dll
+C:\Users\Desi\source\repos\DataTypesAndVariables-Lab\3.ExactSumОfRealNumbers\bin\Debug\netcoreapp3.1\3.ExactSumОfRealNumbers.pdb
+C:\Users\Desi\source\repos\DataTypesAndVariables-Lab\3.ExactSumОfRealNumbers\obj\Debug\netcoreapp3.1\3.ExactSumОfRealNumbers.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\DataTypesAndVariables-Lab\3.ExactSumОfRealNumbers\obj\Debug\netcoreapp3.1\3.ExactSumОfRealNumbers.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\DataTypesAndVariables-Lab\3.ExactSumОfRealNumbers\obj\Debug\netcoreapp3.1\3.ExactSumОfRealNumbers.AssemblyInfo.cs
+C:\Users\Desi\source\repos\DataTypesAndVariables-Lab\3.ExactSumОfRealNumbers\obj\Debug\netcoreapp3.1\3.ExactSumОfRealNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\DataTypesAndVariables-Lab\3.ExactSumОfRealNumbers\obj\Debug\netcoreapp3.1\3.ExactSumОfRealNumbers.dll
+C:\Users\Desi\source\repos\DataTypesAndVariables-Lab\3.ExactSumОfRealNumbers\obj\Debug\netcoreapp3.1\3.ExactSumОfRealNumbers.pdb
+C:\Users\Desi\source\repos\DataTypesAndVariables-Lab\3.ExactSumОfRealNumbers\obj\Debug\netcoreapp3.1\3.ExactSumОfRealNumbers.genruntimeconfig.cache

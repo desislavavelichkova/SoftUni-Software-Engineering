@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\05.CSharp-Advanced-Functional-Programming-Lab\03.CountUppercaseWords\bin\Debug\netcoreapp3.1\03.CountUppercaseWords.exe
+C:\Users\Desi\source\repos\05.CSharp-Advanced-Functional-Programming-Lab\03.CountUppercaseWords\bin\Debug\netcoreapp3.1\03.CountUppercaseWords.deps.json
+C:\Users\Desi\source\repos\05.CSharp-Advanced-Functional-Programming-Lab\03.CountUppercaseWords\bin\Debug\netcoreapp3.1\03.CountUppercaseWords.runtimeconfig.json
+C:\Users\Desi\source\repos\05.CSharp-Advanced-Functional-Programming-Lab\03.CountUppercaseWords\bin\Debug\netcoreapp3.1\03.CountUppercaseWords.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\05.CSharp-Advanced-Functional-Programming-Lab\03.CountUppercaseWords\bin\Debug\netcoreapp3.1\03.CountUppercaseWords.dll
+C:\Users\Desi\source\repos\05.CSharp-Advanced-Functional-Programming-Lab\03.CountUppercaseWords\bin\Debug\netcoreapp3.1\03.CountUppercaseWords.pdb
+C:\Users\Desi\source\repos\05.CSharp-Advanced-Functional-Programming-Lab\03.CountUppercaseWords\obj\Debug\netcoreapp3.1\03.CountUppercaseWords.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\05.CSharp-Advanced-Functional-Programming-Lab\03.CountUppercaseWords\obj\Debug\netcoreapp3.1\03.CountUppercaseWords.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\05.CSharp-Advanced-Functional-Programming-Lab\03.CountUppercaseWords\obj\Debug\netcoreapp3.1\03.CountUppercaseWords.AssemblyInfo.cs
+C:\Users\Desi\source\repos\05.CSharp-Advanced-Functional-Programming-Lab\03.CountUppercaseWords\obj\Debug\netcoreapp3.1\03.CountUppercaseWords.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\05.CSharp-Advanced-Functional-Programming-Lab\03.CountUppercaseWords\obj\Debug\netcoreapp3.1\03.CountUppercaseWords.dll
+C:\Users\Desi\source\repos\05.CSharp-Advanced-Functional-Programming-Lab\03.CountUppercaseWords\obj\Debug\netcoreapp3.1\03.CountUppercaseWords.pdb
+C:\Users\Desi\source\repos\05.CSharp-Advanced-Functional-Programming-Lab\03.CountUppercaseWords\obj\Debug\netcoreapp3.1\03.CountUppercaseWords.genruntimeconfig.cache

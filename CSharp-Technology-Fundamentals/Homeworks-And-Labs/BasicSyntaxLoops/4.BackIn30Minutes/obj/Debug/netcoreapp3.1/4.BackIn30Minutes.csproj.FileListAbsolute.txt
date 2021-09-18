@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops\4.BackIn30Minutes\bin\Debug\netcoreapp3.1\4.BackIn30Minutes.exe
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops\4.BackIn30Minutes\bin\Debug\netcoreapp3.1\4.BackIn30Minutes.deps.json
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops\4.BackIn30Minutes\bin\Debug\netcoreapp3.1\4.BackIn30Minutes.runtimeconfig.json
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops\4.BackIn30Minutes\bin\Debug\netcoreapp3.1\4.BackIn30Minutes.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops\4.BackIn30Minutes\bin\Debug\netcoreapp3.1\4.BackIn30Minutes.dll
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops\4.BackIn30Minutes\bin\Debug\netcoreapp3.1\4.BackIn30Minutes.pdb
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops\4.BackIn30Minutes\obj\Debug\netcoreapp3.1\4.BackIn30Minutes.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops\4.BackIn30Minutes\obj\Debug\netcoreapp3.1\4.BackIn30Minutes.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops\4.BackIn30Minutes\obj\Debug\netcoreapp3.1\4.BackIn30Minutes.AssemblyInfo.cs
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops\4.BackIn30Minutes\obj\Debug\netcoreapp3.1\4.BackIn30Minutes.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops\4.BackIn30Minutes\obj\Debug\netcoreapp3.1\4.BackIn30Minutes.dll
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops\4.BackIn30Minutes\obj\Debug\netcoreapp3.1\4.BackIn30Minutes.pdb
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops\4.BackIn30Minutes\obj\Debug\netcoreapp3.1\4.BackIn30Minutes.genruntimeconfig.cache

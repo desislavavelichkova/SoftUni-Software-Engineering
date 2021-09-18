@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\FinalExamRetake-9August2019\20.Username\bin\Debug\netcoreapp3.1\1.Username.exe
+C:\Users\Desi\source\repos\FinalExamRetake-9August2019\20.Username\bin\Debug\netcoreapp3.1\1.Username.deps.json
+C:\Users\Desi\source\repos\FinalExamRetake-9August2019\20.Username\bin\Debug\netcoreapp3.1\1.Username.runtimeconfig.json
+C:\Users\Desi\source\repos\FinalExamRetake-9August2019\20.Username\bin\Debug\netcoreapp3.1\1.Username.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\FinalExamRetake-9August2019\20.Username\bin\Debug\netcoreapp3.1\1.Username.dll
+C:\Users\Desi\source\repos\FinalExamRetake-9August2019\20.Username\bin\Debug\netcoreapp3.1\1.Username.pdb
+C:\Users\Desi\source\repos\FinalExamRetake-9August2019\20.Username\obj\Debug\netcoreapp3.1\1.Username.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\FinalExamRetake-9August2019\20.Username\obj\Debug\netcoreapp3.1\1.Username.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\FinalExamRetake-9August2019\20.Username\obj\Debug\netcoreapp3.1\1.Username.AssemblyInfo.cs
+C:\Users\Desi\source\repos\FinalExamRetake-9August2019\20.Username\obj\Debug\netcoreapp3.1\1.Username.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\FinalExamRetake-9August2019\20.Username\obj\Debug\netcoreapp3.1\1.Username.dll
+C:\Users\Desi\source\repos\FinalExamRetake-9August2019\20.Username\obj\Debug\netcoreapp3.1\1.Username.pdb
+C:\Users\Desi\source\repos\FinalExamRetake-9August2019\20.Username\obj\Debug\netcoreapp3.1\1.Username.genruntimeconfig.cache

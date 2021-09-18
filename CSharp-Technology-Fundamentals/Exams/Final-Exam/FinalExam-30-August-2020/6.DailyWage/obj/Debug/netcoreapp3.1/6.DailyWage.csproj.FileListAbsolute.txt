@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\EXAM_30.08.2020\6.DailyWage\bin\Debug\netcoreapp3.1\6.DailyWage.exe
+C:\Users\Desi\source\repos\EXAM_30.08.2020\6.DailyWage\bin\Debug\netcoreapp3.1\6.DailyWage.deps.json
+C:\Users\Desi\source\repos\EXAM_30.08.2020\6.DailyWage\bin\Debug\netcoreapp3.1\6.DailyWage.runtimeconfig.json
+C:\Users\Desi\source\repos\EXAM_30.08.2020\6.DailyWage\bin\Debug\netcoreapp3.1\6.DailyWage.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\EXAM_30.08.2020\6.DailyWage\bin\Debug\netcoreapp3.1\6.DailyWage.dll
+C:\Users\Desi\source\repos\EXAM_30.08.2020\6.DailyWage\bin\Debug\netcoreapp3.1\6.DailyWage.pdb
+C:\Users\Desi\source\repos\EXAM_30.08.2020\6.DailyWage\obj\Debug\netcoreapp3.1\6.DailyWage.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\EXAM_30.08.2020\6.DailyWage\obj\Debug\netcoreapp3.1\6.DailyWage.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\EXAM_30.08.2020\6.DailyWage\obj\Debug\netcoreapp3.1\6.DailyWage.AssemblyInfo.cs
+C:\Users\Desi\source\repos\EXAM_30.08.2020\6.DailyWage\obj\Debug\netcoreapp3.1\6.DailyWage.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\EXAM_30.08.2020\6.DailyWage\obj\Debug\netcoreapp3.1\6.DailyWage.dll
+C:\Users\Desi\source\repos\EXAM_30.08.2020\6.DailyWage\obj\Debug\netcoreapp3.1\6.DailyWage.pdb
+C:\Users\Desi\source\repos\EXAM_30.08.2020\6.DailyWage\obj\Debug\netcoreapp3.1\6.DailyWage.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\1.Ages\bin\Debug\netcoreapp3.1\1.Ages.exe
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\1.Ages\bin\Debug\netcoreapp3.1\1.Ages.deps.json
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\1.Ages\bin\Debug\netcoreapp3.1\1.Ages.runtimeconfig.json
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\1.Ages\bin\Debug\netcoreapp3.1\1.Ages.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\1.Ages\bin\Debug\netcoreapp3.1\1.Ages.dll
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\1.Ages\bin\Debug\netcoreapp3.1\1.Ages.pdb
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\1.Ages\obj\Debug\netcoreapp3.1\1.Ages.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\1.Ages\obj\Debug\netcoreapp3.1\1.Ages.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\1.Ages\obj\Debug\netcoreapp3.1\1.Ages.AssemblyInfo.cs
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\1.Ages\obj\Debug\netcoreapp3.1\1.Ages.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\1.Ages\obj\Debug\netcoreapp3.1\1.Ages.dll
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\1.Ages\obj\Debug\netcoreapp3.1\1.Ages.pdb
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\1.Ages\obj\Debug\netcoreapp3.1\1.Ages.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops\13.Debug\bin\Debug\netcoreapp3.1\13.Debug.exe
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops\13.Debug\bin\Debug\netcoreapp3.1\13.Debug.deps.json
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops\13.Debug\bin\Debug\netcoreapp3.1\13.Debug.runtimeconfig.json
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops\13.Debug\bin\Debug\netcoreapp3.1\13.Debug.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops\13.Debug\bin\Debug\netcoreapp3.1\13.Debug.dll
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops\13.Debug\bin\Debug\netcoreapp3.1\13.Debug.pdb
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops\13.Debug\obj\Debug\netcoreapp3.1\13.Debug.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops\13.Debug\obj\Debug\netcoreapp3.1\13.Debug.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops\13.Debug\obj\Debug\netcoreapp3.1\13.Debug.AssemblyInfo.cs
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops\13.Debug\obj\Debug\netcoreapp3.1\13.Debug.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops\13.Debug\obj\Debug\netcoreapp3.1\13.Debug.dll
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops\13.Debug\obj\Debug\netcoreapp3.1\13.Debug.pdb
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops\13.Debug\obj\Debug\netcoreapp3.1\13.Debug.genruntimeconfig.cache

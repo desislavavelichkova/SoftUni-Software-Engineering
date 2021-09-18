@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\ObjectsАndClasses-Lab\01.DayОfWeek\bin\Debug\netcoreapp3.1\01.DayОfWeek.exe
+C:\Users\Desi\source\repos\ObjectsАndClasses-Lab\01.DayОfWeek\bin\Debug\netcoreapp3.1\01.DayОfWeek.deps.json
+C:\Users\Desi\source\repos\ObjectsАndClasses-Lab\01.DayОfWeek\bin\Debug\netcoreapp3.1\01.DayОfWeek.runtimeconfig.json
+C:\Users\Desi\source\repos\ObjectsАndClasses-Lab\01.DayОfWeek\bin\Debug\netcoreapp3.1\01.DayОfWeek.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\ObjectsАndClasses-Lab\01.DayОfWeek\bin\Debug\netcoreapp3.1\01.DayОfWeek.dll
+C:\Users\Desi\source\repos\ObjectsАndClasses-Lab\01.DayОfWeek\bin\Debug\netcoreapp3.1\01.DayОfWeek.pdb
+C:\Users\Desi\source\repos\ObjectsАndClasses-Lab\01.DayОfWeek\obj\Debug\netcoreapp3.1\01.DayОfWeek.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\ObjectsАndClasses-Lab\01.DayОfWeek\obj\Debug\netcoreapp3.1\01.DayОfWeek.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\ObjectsАndClasses-Lab\01.DayОfWeek\obj\Debug\netcoreapp3.1\01.DayОfWeek.AssemblyInfo.cs
+C:\Users\Desi\source\repos\ObjectsАndClasses-Lab\01.DayОfWeek\obj\Debug\netcoreapp3.1\01.DayОfWeek.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\ObjectsАndClasses-Lab\01.DayОfWeek\obj\Debug\netcoreapp3.1\01.DayОfWeek.dll
+C:\Users\Desi\source\repos\ObjectsАndClasses-Lab\01.DayОfWeek\obj\Debug\netcoreapp3.1\01.DayОfWeek.pdb
+C:\Users\Desi\source\repos\ObjectsАndClasses-Lab\01.DayОfWeek\obj\Debug\netcoreapp3.1\01.DayОfWeek.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\Lists-More-Exercise\02.CarRace\bin\Debug\netcoreapp3.1\02.CarRace.exe
+C:\Users\Desi\source\repos\Lists-More-Exercise\02.CarRace\bin\Debug\netcoreapp3.1\02.CarRace.deps.json
+C:\Users\Desi\source\repos\Lists-More-Exercise\02.CarRace\bin\Debug\netcoreapp3.1\02.CarRace.runtimeconfig.json
+C:\Users\Desi\source\repos\Lists-More-Exercise\02.CarRace\bin\Debug\netcoreapp3.1\02.CarRace.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\Lists-More-Exercise\02.CarRace\bin\Debug\netcoreapp3.1\02.CarRace.dll
+C:\Users\Desi\source\repos\Lists-More-Exercise\02.CarRace\bin\Debug\netcoreapp3.1\02.CarRace.pdb
+C:\Users\Desi\source\repos\Lists-More-Exercise\02.CarRace\obj\Debug\netcoreapp3.1\02.CarRace.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\Lists-More-Exercise\02.CarRace\obj\Debug\netcoreapp3.1\02.CarRace.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\Lists-More-Exercise\02.CarRace\obj\Debug\netcoreapp3.1\02.CarRace.AssemblyInfo.cs
+C:\Users\Desi\source\repos\Lists-More-Exercise\02.CarRace\obj\Debug\netcoreapp3.1\02.CarRace.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\Lists-More-Exercise\02.CarRace\obj\Debug\netcoreapp3.1\02.CarRace.dll
+C:\Users\Desi\source\repos\Lists-More-Exercise\02.CarRace\obj\Debug\netcoreapp3.1\02.CarRace.pdb
+C:\Users\Desi\source\repos\Lists-More-Exercise\02.CarRace\obj\Debug\netcoreapp3.1\02.CarRace.genruntimeconfig.cache

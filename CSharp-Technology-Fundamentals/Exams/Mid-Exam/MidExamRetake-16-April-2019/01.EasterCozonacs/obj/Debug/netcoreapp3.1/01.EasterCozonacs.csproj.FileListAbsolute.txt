@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\MidExamRetake-16 April2019\01.EasterCozonacs\bin\Debug\netcoreapp3.1\01.EasterCozonacs.exe
+C:\Users\Desi\source\repos\MidExamRetake-16 April2019\01.EasterCozonacs\bin\Debug\netcoreapp3.1\01.EasterCozonacs.deps.json
+C:\Users\Desi\source\repos\MidExamRetake-16 April2019\01.EasterCozonacs\bin\Debug\netcoreapp3.1\01.EasterCozonacs.runtimeconfig.json
+C:\Users\Desi\source\repos\MidExamRetake-16 April2019\01.EasterCozonacs\bin\Debug\netcoreapp3.1\01.EasterCozonacs.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\MidExamRetake-16 April2019\01.EasterCozonacs\bin\Debug\netcoreapp3.1\01.EasterCozonacs.dll
+C:\Users\Desi\source\repos\MidExamRetake-16 April2019\01.EasterCozonacs\bin\Debug\netcoreapp3.1\01.EasterCozonacs.pdb
+C:\Users\Desi\source\repos\MidExamRetake-16 April2019\01.EasterCozonacs\obj\Debug\netcoreapp3.1\01.EasterCozonacs.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\MidExamRetake-16 April2019\01.EasterCozonacs\obj\Debug\netcoreapp3.1\01.EasterCozonacs.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\MidExamRetake-16 April2019\01.EasterCozonacs\obj\Debug\netcoreapp3.1\01.EasterCozonacs.AssemblyInfo.cs
+C:\Users\Desi\source\repos\MidExamRetake-16 April2019\01.EasterCozonacs\obj\Debug\netcoreapp3.1\01.EasterCozonacs.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\MidExamRetake-16 April2019\01.EasterCozonacs\obj\Debug\netcoreapp3.1\01.EasterCozonacs.dll
+C:\Users\Desi\source\repos\MidExamRetake-16 April2019\01.EasterCozonacs\obj\Debug\netcoreapp3.1\01.EasterCozonacs.pdb
+C:\Users\Desi\source\repos\MidExamRetake-16 April2019\01.EasterCozonacs\obj\Debug\netcoreapp3.1\01.EasterCozonacs.genruntimeconfig.cache

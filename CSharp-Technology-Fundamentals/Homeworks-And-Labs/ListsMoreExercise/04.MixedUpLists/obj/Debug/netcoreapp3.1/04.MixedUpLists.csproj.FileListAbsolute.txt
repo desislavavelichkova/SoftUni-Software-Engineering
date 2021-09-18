@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\Lists-More-Exercise\04.MixedUpLists\bin\Debug\netcoreapp3.1\04.MixedUpLists.exe
+C:\Users\Desi\source\repos\Lists-More-Exercise\04.MixedUpLists\bin\Debug\netcoreapp3.1\04.MixedUpLists.deps.json
+C:\Users\Desi\source\repos\Lists-More-Exercise\04.MixedUpLists\bin\Debug\netcoreapp3.1\04.MixedUpLists.runtimeconfig.json
+C:\Users\Desi\source\repos\Lists-More-Exercise\04.MixedUpLists\bin\Debug\netcoreapp3.1\04.MixedUpLists.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\Lists-More-Exercise\04.MixedUpLists\bin\Debug\netcoreapp3.1\04.MixedUpLists.dll
+C:\Users\Desi\source\repos\Lists-More-Exercise\04.MixedUpLists\bin\Debug\netcoreapp3.1\04.MixedUpLists.pdb
+C:\Users\Desi\source\repos\Lists-More-Exercise\04.MixedUpLists\obj\Debug\netcoreapp3.1\04.MixedUpLists.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\Lists-More-Exercise\04.MixedUpLists\obj\Debug\netcoreapp3.1\04.MixedUpLists.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\Lists-More-Exercise\04.MixedUpLists\obj\Debug\netcoreapp3.1\04.MixedUpLists.AssemblyInfo.cs
+C:\Users\Desi\source\repos\Lists-More-Exercise\04.MixedUpLists\obj\Debug\netcoreapp3.1\04.MixedUpLists.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\Lists-More-Exercise\04.MixedUpLists\obj\Debug\netcoreapp3.1\04.MixedUpLists.dll
+C:\Users\Desi\source\repos\Lists-More-Exercise\04.MixedUpLists\obj\Debug\netcoreapp3.1\04.MixedUpLists.pdb
+C:\Users\Desi\source\repos\Lists-More-Exercise\04.MixedUpLists\obj\Debug\netcoreapp3.1\04.MixedUpLists.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\FinalExam-07December2019Group1\02.Registration\bin\Debug\netcoreapp3.1\02.Registration.exe
+C:\Users\Desi\source\repos\FinalExam-07December2019Group1\02.Registration\bin\Debug\netcoreapp3.1\02.Registration.deps.json
+C:\Users\Desi\source\repos\FinalExam-07December2019Group1\02.Registration\bin\Debug\netcoreapp3.1\02.Registration.runtimeconfig.json
+C:\Users\Desi\source\repos\FinalExam-07December2019Group1\02.Registration\bin\Debug\netcoreapp3.1\02.Registration.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\FinalExam-07December2019Group1\02.Registration\bin\Debug\netcoreapp3.1\02.Registration.dll
+C:\Users\Desi\source\repos\FinalExam-07December2019Group1\02.Registration\bin\Debug\netcoreapp3.1\02.Registration.pdb
+C:\Users\Desi\source\repos\FinalExam-07December2019Group1\02.Registration\obj\Debug\netcoreapp3.1\02.Registration.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\FinalExam-07December2019Group1\02.Registration\obj\Debug\netcoreapp3.1\02.Registration.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\FinalExam-07December2019Group1\02.Registration\obj\Debug\netcoreapp3.1\02.Registration.AssemblyInfo.cs
+C:\Users\Desi\source\repos\FinalExam-07December2019Group1\02.Registration\obj\Debug\netcoreapp3.1\02.Registration.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\FinalExam-07December2019Group1\02.Registration\obj\Debug\netcoreapp3.1\02.Registration.dll
+C:\Users\Desi\source\repos\FinalExam-07December2019Group1\02.Registration\obj\Debug\netcoreapp3.1\02.Registration.pdb
+C:\Users\Desi\source\repos\FinalExam-07December2019Group1\02.Registration\obj\Debug\netcoreapp3.1\02.Registration.genruntimeconfig.cache

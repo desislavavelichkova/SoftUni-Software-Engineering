@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\02.CSharp-Advanced-Multidimensional-Arrays-Lab\05.SquarewithMaximumSum\bin\Debug\netcoreapp3.1\05.SquarewithMaximumSum.exe
+C:\Users\Desi\source\repos\02.CSharp-Advanced-Multidimensional-Arrays-Lab\05.SquarewithMaximumSum\bin\Debug\netcoreapp3.1\05.SquarewithMaximumSum.deps.json
+C:\Users\Desi\source\repos\02.CSharp-Advanced-Multidimensional-Arrays-Lab\05.SquarewithMaximumSum\bin\Debug\netcoreapp3.1\05.SquarewithMaximumSum.runtimeconfig.json
+C:\Users\Desi\source\repos\02.CSharp-Advanced-Multidimensional-Arrays-Lab\05.SquarewithMaximumSum\bin\Debug\netcoreapp3.1\05.SquarewithMaximumSum.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\02.CSharp-Advanced-Multidimensional-Arrays-Lab\05.SquarewithMaximumSum\bin\Debug\netcoreapp3.1\05.SquarewithMaximumSum.dll
+C:\Users\Desi\source\repos\02.CSharp-Advanced-Multidimensional-Arrays-Lab\05.SquarewithMaximumSum\bin\Debug\netcoreapp3.1\05.SquarewithMaximumSum.pdb
+C:\Users\Desi\source\repos\02.CSharp-Advanced-Multidimensional-Arrays-Lab\05.SquarewithMaximumSum\obj\Debug\netcoreapp3.1\05.SquarewithMaximumSum.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\02.CSharp-Advanced-Multidimensional-Arrays-Lab\05.SquarewithMaximumSum\obj\Debug\netcoreapp3.1\05.SquarewithMaximumSum.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\02.CSharp-Advanced-Multidimensional-Arrays-Lab\05.SquarewithMaximumSum\obj\Debug\netcoreapp3.1\05.SquarewithMaximumSum.AssemblyInfo.cs
+C:\Users\Desi\source\repos\02.CSharp-Advanced-Multidimensional-Arrays-Lab\05.SquarewithMaximumSum\obj\Debug\netcoreapp3.1\05.SquarewithMaximumSum.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\02.CSharp-Advanced-Multidimensional-Arrays-Lab\05.SquarewithMaximumSum\obj\Debug\netcoreapp3.1\05.SquarewithMaximumSum.dll
+C:\Users\Desi\source\repos\02.CSharp-Advanced-Multidimensional-Arrays-Lab\05.SquarewithMaximumSum\obj\Debug\netcoreapp3.1\05.SquarewithMaximumSum.pdb
+C:\Users\Desi\source\repos\02.CSharp-Advanced-Multidimensional-Arrays-Lab\05.SquarewithMaximumSum\obj\Debug\netcoreapp3.1\05.SquarewithMaximumSum.genruntimeconfig.cache

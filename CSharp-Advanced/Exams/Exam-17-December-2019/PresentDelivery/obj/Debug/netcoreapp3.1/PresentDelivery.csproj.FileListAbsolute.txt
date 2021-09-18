@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\3.Advance\EXAM-RETAKE\Exam-17Dec2019\PresentDelivery\bin\Debug\netcoreapp3.1\PresentDelivery.exe
+C:\Users\Desi\source\repos\3.Advance\EXAM-RETAKE\Exam-17Dec2019\PresentDelivery\bin\Debug\netcoreapp3.1\PresentDelivery.deps.json
+C:\Users\Desi\source\repos\3.Advance\EXAM-RETAKE\Exam-17Dec2019\PresentDelivery\bin\Debug\netcoreapp3.1\PresentDelivery.runtimeconfig.json
+C:\Users\Desi\source\repos\3.Advance\EXAM-RETAKE\Exam-17Dec2019\PresentDelivery\bin\Debug\netcoreapp3.1\PresentDelivery.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\3.Advance\EXAM-RETAKE\Exam-17Dec2019\PresentDelivery\bin\Debug\netcoreapp3.1\PresentDelivery.dll
+C:\Users\Desi\source\repos\3.Advance\EXAM-RETAKE\Exam-17Dec2019\PresentDelivery\bin\Debug\netcoreapp3.1\PresentDelivery.pdb
+C:\Users\Desi\source\repos\3.Advance\EXAM-RETAKE\Exam-17Dec2019\PresentDelivery\obj\Debug\netcoreapp3.1\PresentDelivery.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\3.Advance\EXAM-RETAKE\Exam-17Dec2019\PresentDelivery\obj\Debug\netcoreapp3.1\PresentDelivery.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\3.Advance\EXAM-RETAKE\Exam-17Dec2019\PresentDelivery\obj\Debug\netcoreapp3.1\PresentDelivery.AssemblyInfo.cs
+C:\Users\Desi\source\repos\3.Advance\EXAM-RETAKE\Exam-17Dec2019\PresentDelivery\obj\Debug\netcoreapp3.1\PresentDelivery.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\3.Advance\EXAM-RETAKE\Exam-17Dec2019\PresentDelivery\obj\Debug\netcoreapp3.1\PresentDelivery.dll
+C:\Users\Desi\source\repos\3.Advance\EXAM-RETAKE\Exam-17Dec2019\PresentDelivery\obj\Debug\netcoreapp3.1\PresentDelivery.pdb
+C:\Users\Desi\source\repos\3.Advance\EXAM-RETAKE\Exam-17Dec2019\PresentDelivery\obj\Debug\netcoreapp3.1\PresentDelivery.genruntimeconfig.cache

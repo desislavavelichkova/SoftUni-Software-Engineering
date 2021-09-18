@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops\7.TheatrePromotions\bin\Debug\netcoreapp3.1\7.TheatrePromotions.exe
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops\7.TheatrePromotions\bin\Debug\netcoreapp3.1\7.TheatrePromotions.deps.json
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops\7.TheatrePromotions\bin\Debug\netcoreapp3.1\7.TheatrePromotions.runtimeconfig.json
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops\7.TheatrePromotions\bin\Debug\netcoreapp3.1\7.TheatrePromotions.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops\7.TheatrePromotions\bin\Debug\netcoreapp3.1\7.TheatrePromotions.dll
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops\7.TheatrePromotions\bin\Debug\netcoreapp3.1\7.TheatrePromotions.pdb
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops\7.TheatrePromotions\obj\Debug\netcoreapp3.1\7.TheatrePromotions.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops\7.TheatrePromotions\obj\Debug\netcoreapp3.1\7.TheatrePromotions.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops\7.TheatrePromotions\obj\Debug\netcoreapp3.1\7.TheatrePromotions.AssemblyInfo.cs
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops\7.TheatrePromotions\obj\Debug\netcoreapp3.1\7.TheatrePromotions.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops\7.TheatrePromotions\obj\Debug\netcoreapp3.1\7.TheatrePromotions.dll
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops\7.TheatrePromotions\obj\Debug\netcoreapp3.1\7.TheatrePromotions.pdb
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops\7.TheatrePromotions\obj\Debug\netcoreapp3.1\7.TheatrePromotions.genruntimeconfig.cache

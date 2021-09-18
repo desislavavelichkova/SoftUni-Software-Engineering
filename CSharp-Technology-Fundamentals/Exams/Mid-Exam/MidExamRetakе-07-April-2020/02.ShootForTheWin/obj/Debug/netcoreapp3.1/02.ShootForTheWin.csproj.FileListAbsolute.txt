@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\Mid Exam Retake - 07 April 2020\02.ShootForTheWin\bin\Debug\netcoreapp3.1\02.ShootForTheWin.exe
+C:\Users\Desi\source\repos\Mid Exam Retake - 07 April 2020\02.ShootForTheWin\bin\Debug\netcoreapp3.1\02.ShootForTheWin.deps.json
+C:\Users\Desi\source\repos\Mid Exam Retake - 07 April 2020\02.ShootForTheWin\bin\Debug\netcoreapp3.1\02.ShootForTheWin.runtimeconfig.json
+C:\Users\Desi\source\repos\Mid Exam Retake - 07 April 2020\02.ShootForTheWin\bin\Debug\netcoreapp3.1\02.ShootForTheWin.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\Mid Exam Retake - 07 April 2020\02.ShootForTheWin\bin\Debug\netcoreapp3.1\02.ShootForTheWin.dll
+C:\Users\Desi\source\repos\Mid Exam Retake - 07 April 2020\02.ShootForTheWin\bin\Debug\netcoreapp3.1\02.ShootForTheWin.pdb
+C:\Users\Desi\source\repos\Mid Exam Retake - 07 April 2020\02.ShootForTheWin\obj\Debug\netcoreapp3.1\02.ShootForTheWin.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\Mid Exam Retake - 07 April 2020\02.ShootForTheWin\obj\Debug\netcoreapp3.1\02.ShootForTheWin.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\Mid Exam Retake - 07 April 2020\02.ShootForTheWin\obj\Debug\netcoreapp3.1\02.ShootForTheWin.AssemblyInfo.cs
+C:\Users\Desi\source\repos\Mid Exam Retake - 07 April 2020\02.ShootForTheWin\obj\Debug\netcoreapp3.1\02.ShootForTheWin.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\Mid Exam Retake - 07 April 2020\02.ShootForTheWin\obj\Debug\netcoreapp3.1\02.ShootForTheWin.dll
+C:\Users\Desi\source\repos\Mid Exam Retake - 07 April 2020\02.ShootForTheWin\obj\Debug\netcoreapp3.1\02.ShootForTheWin.pdb
+C:\Users\Desi\source\repos\Mid Exam Retake - 07 April 2020\02.ShootForTheWin\obj\Debug\netcoreapp3.1\02.ShootForTheWin.genruntimeconfig.cache

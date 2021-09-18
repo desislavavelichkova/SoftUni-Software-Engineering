@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\DataTypesAndVariables-Lab\10.LowerОrUpper\obj\Debug\netcoreapp3.1\10.LowerОrUpper.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\DataTypesAndVariables-Lab\10.LowerОrUpper\obj\Debug\netcoreapp3.1\10.LowerОrUpper.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\DataTypesAndVariables-Lab\10.LowerОrUpper\obj\Debug\netcoreapp3.1\10.LowerОrUpper.AssemblyInfo.cs
+C:\Users\Desi\source\repos\DataTypesAndVariables-Lab\10.LowerОrUpper\obj\Debug\netcoreapp3.1\10.LowerОrUpper.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\DataTypesAndVariables-Lab\10.LowerОrUpper\bin\Debug\netcoreapp3.1\10.LowerОrUpper.exe
+C:\Users\Desi\source\repos\DataTypesAndVariables-Lab\10.LowerОrUpper\bin\Debug\netcoreapp3.1\10.LowerОrUpper.deps.json
+C:\Users\Desi\source\repos\DataTypesAndVariables-Lab\10.LowerОrUpper\bin\Debug\netcoreapp3.1\10.LowerОrUpper.runtimeconfig.json
+C:\Users\Desi\source\repos\DataTypesAndVariables-Lab\10.LowerОrUpper\bin\Debug\netcoreapp3.1\10.LowerОrUpper.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\DataTypesAndVariables-Lab\10.LowerОrUpper\bin\Debug\netcoreapp3.1\10.LowerОrUpper.dll
+C:\Users\Desi\source\repos\DataTypesAndVariables-Lab\10.LowerОrUpper\bin\Debug\netcoreapp3.1\10.LowerОrUpper.pdb
+C:\Users\Desi\source\repos\DataTypesAndVariables-Lab\10.LowerОrUpper\obj\Debug\netcoreapp3.1\10.LowerОrUpper.dll
+C:\Users\Desi\source\repos\DataTypesAndVariables-Lab\10.LowerОrUpper\obj\Debug\netcoreapp3.1\10.LowerОrUpper.pdb
+C:\Users\Desi\source\repos\DataTypesAndVariables-Lab\10.LowerОrUpper\obj\Debug\netcoreapp3.1\10.LowerОrUpper.genruntimeconfig.cache

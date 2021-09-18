@@ -1,0 +1,4 @@
+C:\Users\Desi\source\repos\Data-Types-and-Variables-More-Exercise\02.FromLeftToTheRight\obj\Debug\netcoreapp3.1\02.FromLeftToTheRight.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\Data-Types-and-Variables-More-Exercise\02.FromLeftToTheRight\obj\Debug\netcoreapp3.1\02.FromLeftToTheRight.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\Data-Types-and-Variables-More-Exercise\02.FromLeftToTheRight\obj\Debug\netcoreapp3.1\02.FromLeftToTheRight.AssemblyInfo.cs
+C:\Users\Desi\source\repos\Data-Types-and-Variables-More-Exercise\02.FromLeftToTheRight\obj\Debug\netcoreapp3.1\02.FromLeftToTheRight.csproj.CoreCompileInputs.cache

@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\3.Advance\EXAMPreparation\Exam-25October2020\Classroom\obj\Debug\netcoreapp3.1\Classroom.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\3.Advance\EXAMPreparation\Exam-25October2020\Classroom\obj\Debug\netcoreapp3.1\Classroom.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\3.Advance\EXAMPreparation\Exam-25October2020\Classroom\obj\Debug\netcoreapp3.1\Classroom.AssemblyInfo.cs
+C:\Users\Desi\source\repos\3.Advance\EXAMPreparation\Exam-25October2020\Classroom\obj\Debug\netcoreapp3.1\Classroom.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\3.Advance\EXAMPreparation\Exam-25October2020\Classroom\bin\Debug\netcoreapp3.1\Classroom.exe
+C:\Users\Desi\source\repos\3.Advance\EXAMPreparation\Exam-25October2020\Classroom\bin\Debug\netcoreapp3.1\Classroom.deps.json
+C:\Users\Desi\source\repos\3.Advance\EXAMPreparation\Exam-25October2020\Classroom\bin\Debug\netcoreapp3.1\Classroom.runtimeconfig.json
+C:\Users\Desi\source\repos\3.Advance\EXAMPreparation\Exam-25October2020\Classroom\bin\Debug\netcoreapp3.1\Classroom.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\3.Advance\EXAMPreparation\Exam-25October2020\Classroom\bin\Debug\netcoreapp3.1\Classroom.dll
+C:\Users\Desi\source\repos\3.Advance\EXAMPreparation\Exam-25October2020\Classroom\bin\Debug\netcoreapp3.1\Classroom.pdb
+C:\Users\Desi\source\repos\3.Advance\EXAMPreparation\Exam-25October2020\Classroom\obj\Debug\netcoreapp3.1\Classroom.dll
+C:\Users\Desi\source\repos\3.Advance\EXAMPreparation\Exam-25October2020\Classroom\obj\Debug\netcoreapp3.1\Classroom.pdb
+C:\Users\Desi\source\repos\3.Advance\EXAMPreparation\Exam-25October2020\Classroom\obj\Debug\netcoreapp3.1\Classroom.genruntimeconfig.cache

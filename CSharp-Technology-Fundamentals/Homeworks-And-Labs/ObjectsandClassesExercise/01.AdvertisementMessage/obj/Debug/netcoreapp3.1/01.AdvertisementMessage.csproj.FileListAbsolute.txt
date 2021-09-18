@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\ObjectsandClasses-Exercise\01.AdvertisementMessage\bin\Debug\netcoreapp3.1\01.AdvertisementMessage.exe
+C:\Users\Desi\source\repos\ObjectsandClasses-Exercise\01.AdvertisementMessage\bin\Debug\netcoreapp3.1\01.AdvertisementMessage.deps.json
+C:\Users\Desi\source\repos\ObjectsandClasses-Exercise\01.AdvertisementMessage\bin\Debug\netcoreapp3.1\01.AdvertisementMessage.runtimeconfig.json
+C:\Users\Desi\source\repos\ObjectsandClasses-Exercise\01.AdvertisementMessage\bin\Debug\netcoreapp3.1\01.AdvertisementMessage.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\ObjectsandClasses-Exercise\01.AdvertisementMessage\bin\Debug\netcoreapp3.1\01.AdvertisementMessage.dll
+C:\Users\Desi\source\repos\ObjectsandClasses-Exercise\01.AdvertisementMessage\bin\Debug\netcoreapp3.1\01.AdvertisementMessage.pdb
+C:\Users\Desi\source\repos\ObjectsandClasses-Exercise\01.AdvertisementMessage\obj\Debug\netcoreapp3.1\01.AdvertisementMessage.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\ObjectsandClasses-Exercise\01.AdvertisementMessage\obj\Debug\netcoreapp3.1\01.AdvertisementMessage.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\ObjectsandClasses-Exercise\01.AdvertisementMessage\obj\Debug\netcoreapp3.1\01.AdvertisementMessage.AssemblyInfo.cs
+C:\Users\Desi\source\repos\ObjectsandClasses-Exercise\01.AdvertisementMessage\obj\Debug\netcoreapp3.1\01.AdvertisementMessage.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\ObjectsandClasses-Exercise\01.AdvertisementMessage\obj\Debug\netcoreapp3.1\01.AdvertisementMessage.dll
+C:\Users\Desi\source\repos\ObjectsandClasses-Exercise\01.AdvertisementMessage\obj\Debug\netcoreapp3.1\01.AdvertisementMessage.pdb
+C:\Users\Desi\source\repos\ObjectsandClasses-Exercise\01.AdvertisementMessage\obj\Debug\netcoreapp3.1\01.AdvertisementMessage.genruntimeconfig.cache

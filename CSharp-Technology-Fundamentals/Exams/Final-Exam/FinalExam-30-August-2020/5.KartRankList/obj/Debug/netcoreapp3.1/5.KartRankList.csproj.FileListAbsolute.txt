@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\EXAM_30.08.2020\5.KartRankList\bin\Debug\netcoreapp3.1\5.KartRankList.exe
+C:\Users\Desi\source\repos\EXAM_30.08.2020\5.KartRankList\bin\Debug\netcoreapp3.1\5.KartRankList.deps.json
+C:\Users\Desi\source\repos\EXAM_30.08.2020\5.KartRankList\bin\Debug\netcoreapp3.1\5.KartRankList.runtimeconfig.json
+C:\Users\Desi\source\repos\EXAM_30.08.2020\5.KartRankList\bin\Debug\netcoreapp3.1\5.KartRankList.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\EXAM_30.08.2020\5.KartRankList\bin\Debug\netcoreapp3.1\5.KartRankList.dll
+C:\Users\Desi\source\repos\EXAM_30.08.2020\5.KartRankList\bin\Debug\netcoreapp3.1\5.KartRankList.pdb
+C:\Users\Desi\source\repos\EXAM_30.08.2020\5.KartRankList\obj\Debug\netcoreapp3.1\5.KartRankList.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\EXAM_30.08.2020\5.KartRankList\obj\Debug\netcoreapp3.1\5.KartRankList.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\EXAM_30.08.2020\5.KartRankList\obj\Debug\netcoreapp3.1\5.KartRankList.AssemblyInfo.cs
+C:\Users\Desi\source\repos\EXAM_30.08.2020\5.KartRankList\obj\Debug\netcoreapp3.1\5.KartRankList.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\EXAM_30.08.2020\5.KartRankList\obj\Debug\netcoreapp3.1\5.KartRankList.dll
+C:\Users\Desi\source\repos\EXAM_30.08.2020\5.KartRankList\obj\Debug\netcoreapp3.1\5.KartRankList.pdb
+C:\Users\Desi\source\repos\EXAM_30.08.2020\5.KartRankList\obj\Debug\netcoreapp3.1\5.KartRankList.genruntimeconfig.cache

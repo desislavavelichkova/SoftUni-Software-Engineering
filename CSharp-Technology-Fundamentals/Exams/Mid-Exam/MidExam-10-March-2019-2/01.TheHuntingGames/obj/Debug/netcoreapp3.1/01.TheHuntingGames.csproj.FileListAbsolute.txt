@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\MidExam-10March2019Group2\01.TheHuntingGames\bin\Debug\netcoreapp3.1\01.TheHuntingGames.exe
+C:\Users\Desi\source\repos\MidExam-10March2019Group2\01.TheHuntingGames\bin\Debug\netcoreapp3.1\01.TheHuntingGames.deps.json
+C:\Users\Desi\source\repos\MidExam-10March2019Group2\01.TheHuntingGames\bin\Debug\netcoreapp3.1\01.TheHuntingGames.runtimeconfig.json
+C:\Users\Desi\source\repos\MidExam-10March2019Group2\01.TheHuntingGames\bin\Debug\netcoreapp3.1\01.TheHuntingGames.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\MidExam-10March2019Group2\01.TheHuntingGames\bin\Debug\netcoreapp3.1\01.TheHuntingGames.dll
+C:\Users\Desi\source\repos\MidExam-10March2019Group2\01.TheHuntingGames\bin\Debug\netcoreapp3.1\01.TheHuntingGames.pdb
+C:\Users\Desi\source\repos\MidExam-10March2019Group2\01.TheHuntingGames\obj\Debug\netcoreapp3.1\01.TheHuntingGames.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\MidExam-10March2019Group2\01.TheHuntingGames\obj\Debug\netcoreapp3.1\01.TheHuntingGames.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\MidExam-10March2019Group2\01.TheHuntingGames\obj\Debug\netcoreapp3.1\01.TheHuntingGames.AssemblyInfo.cs
+C:\Users\Desi\source\repos\MidExam-10March2019Group2\01.TheHuntingGames\obj\Debug\netcoreapp3.1\01.TheHuntingGames.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\MidExam-10March2019Group2\01.TheHuntingGames\obj\Debug\netcoreapp3.1\01.TheHuntingGames.dll
+C:\Users\Desi\source\repos\MidExam-10March2019Group2\01.TheHuntingGames\obj\Debug\netcoreapp3.1\01.TheHuntingGames.pdb
+C:\Users\Desi\source\repos\MidExam-10March2019Group2\01.TheHuntingGames\obj\Debug\netcoreapp3.1\01.TheHuntingGames.genruntimeconfig.cache

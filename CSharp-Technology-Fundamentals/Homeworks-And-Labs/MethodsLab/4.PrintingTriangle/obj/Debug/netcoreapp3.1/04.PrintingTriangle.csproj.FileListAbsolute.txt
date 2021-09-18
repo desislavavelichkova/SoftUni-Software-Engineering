@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\Methods-Lab\4.PrintingTriangle\bin\Debug\netcoreapp3.1\04.PrintingTriangle.exe
+C:\Users\Desi\source\repos\Methods-Lab\4.PrintingTriangle\bin\Debug\netcoreapp3.1\04.PrintingTriangle.deps.json
+C:\Users\Desi\source\repos\Methods-Lab\4.PrintingTriangle\bin\Debug\netcoreapp3.1\04.PrintingTriangle.runtimeconfig.json
+C:\Users\Desi\source\repos\Methods-Lab\4.PrintingTriangle\bin\Debug\netcoreapp3.1\04.PrintingTriangle.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\Methods-Lab\4.PrintingTriangle\bin\Debug\netcoreapp3.1\04.PrintingTriangle.dll
+C:\Users\Desi\source\repos\Methods-Lab\4.PrintingTriangle\bin\Debug\netcoreapp3.1\04.PrintingTriangle.pdb
+C:\Users\Desi\source\repos\Methods-Lab\4.PrintingTriangle\obj\Debug\netcoreapp3.1\04.PrintingTriangle.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\Methods-Lab\4.PrintingTriangle\obj\Debug\netcoreapp3.1\04.PrintingTriangle.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\Methods-Lab\4.PrintingTriangle\obj\Debug\netcoreapp3.1\04.PrintingTriangle.AssemblyInfo.cs
+C:\Users\Desi\source\repos\Methods-Lab\4.PrintingTriangle\obj\Debug\netcoreapp3.1\04.PrintingTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\Methods-Lab\4.PrintingTriangle\obj\Debug\netcoreapp3.1\04.PrintingTriangle.dll
+C:\Users\Desi\source\repos\Methods-Lab\4.PrintingTriangle\obj\Debug\netcoreapp3.1\04.PrintingTriangle.pdb
+C:\Users\Desi\source\repos\Methods-Lab\4.PrintingTriangle\obj\Debug\netcoreapp3.1\04.PrintingTriangle.genruntimeconfig.cache

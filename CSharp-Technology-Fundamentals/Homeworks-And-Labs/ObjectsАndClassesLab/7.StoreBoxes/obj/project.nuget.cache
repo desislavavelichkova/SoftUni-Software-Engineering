@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7nLnBC6fOaUlYYXaWzJKjjkFxB9VAGUPnBlMBewRxPLQ61tAez/LgozLTBVlbwB5qmQB5TJ7rOwXxstln7g4dw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Desi\\source\\repos\\ObjectsАndClasses-Lab\\7.StoreBoxes\\07.StoreBoxes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Desi\\.nuget\\packages\\documentformat.openxml\\2.11.3\\documentformat.openxml.2.11.3.nupkg.sha512",
+    "C:\\Users\\Desi\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

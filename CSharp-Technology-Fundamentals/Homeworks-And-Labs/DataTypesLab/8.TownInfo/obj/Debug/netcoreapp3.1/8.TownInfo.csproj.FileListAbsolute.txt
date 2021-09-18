@@ -1,0 +1,12 @@
+C:\Users\Desi\source\repos\DataTypesAndVariables-Lab\8.TownInfo\bin\Debug\netcoreapp3.1\8.TownInfo.exe
+C:\Users\Desi\source\repos\DataTypesAndVariables-Lab\8.TownInfo\bin\Debug\netcoreapp3.1\8.TownInfo.deps.json
+C:\Users\Desi\source\repos\DataTypesAndVariables-Lab\8.TownInfo\bin\Debug\netcoreapp3.1\8.TownInfo.runtimeconfig.json
+C:\Users\Desi\source\repos\DataTypesAndVariables-Lab\8.TownInfo\bin\Debug\netcoreapp3.1\8.TownInfo.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\DataTypesAndVariables-Lab\8.TownInfo\bin\Debug\netcoreapp3.1\8.TownInfo.dll
+C:\Users\Desi\source\repos\DataTypesAndVariables-Lab\8.TownInfo\bin\Debug\netcoreapp3.1\8.TownInfo.pdb
+C:\Users\Desi\source\repos\DataTypesAndVariables-Lab\8.TownInfo\obj\Debug\netcoreapp3.1\8.TownInfo.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\DataTypesAndVariables-Lab\8.TownInfo\obj\Debug\netcoreapp3.1\8.TownInfo.AssemblyInfo.cs
+C:\Users\Desi\source\repos\DataTypesAndVariables-Lab\8.TownInfo\obj\Debug\netcoreapp3.1\8.TownInfo.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\DataTypesAndVariables-Lab\8.TownInfo\obj\Debug\netcoreapp3.1\8.TownInfo.dll
+C:\Users\Desi\source\repos\DataTypesAndVariables-Lab\8.TownInfo\obj\Debug\netcoreapp3.1\8.TownInfo.pdb
+C:\Users\Desi\source\repos\DataTypesAndVariables-Lab\8.TownInfo\obj\Debug\netcoreapp3.1\8.TownInfo.genruntimeconfig.cache

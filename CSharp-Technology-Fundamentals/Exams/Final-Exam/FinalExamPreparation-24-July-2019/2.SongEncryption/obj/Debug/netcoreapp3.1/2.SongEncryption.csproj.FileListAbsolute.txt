@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\FinalExamPreparation-24July2019\2.SongEncryption\bin\Debug\netcoreapp3.1\2.SongEncryption.exe
+C:\Users\Desi\source\repos\FinalExamPreparation-24July2019\2.SongEncryption\bin\Debug\netcoreapp3.1\2.SongEncryption.deps.json
+C:\Users\Desi\source\repos\FinalExamPreparation-24July2019\2.SongEncryption\bin\Debug\netcoreapp3.1\2.SongEncryption.runtimeconfig.json
+C:\Users\Desi\source\repos\FinalExamPreparation-24July2019\2.SongEncryption\bin\Debug\netcoreapp3.1\2.SongEncryption.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\FinalExamPreparation-24July2019\2.SongEncryption\bin\Debug\netcoreapp3.1\2.SongEncryption.dll
+C:\Users\Desi\source\repos\FinalExamPreparation-24July2019\2.SongEncryption\bin\Debug\netcoreapp3.1\2.SongEncryption.pdb
+C:\Users\Desi\source\repos\FinalExamPreparation-24July2019\2.SongEncryption\obj\Debug\netcoreapp3.1\2.SongEncryption.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\FinalExamPreparation-24July2019\2.SongEncryption\obj\Debug\netcoreapp3.1\2.SongEncryption.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\FinalExamPreparation-24July2019\2.SongEncryption\obj\Debug\netcoreapp3.1\2.SongEncryption.AssemblyInfo.cs
+C:\Users\Desi\source\repos\FinalExamPreparation-24July2019\2.SongEncryption\obj\Debug\netcoreapp3.1\2.SongEncryption.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\FinalExamPreparation-24July2019\2.SongEncryption\obj\Debug\netcoreapp3.1\2.SongEncryption.dll
+C:\Users\Desi\source\repos\FinalExamPreparation-24July2019\2.SongEncryption\obj\Debug\netcoreapp3.1\2.SongEncryption.pdb
+C:\Users\Desi\source\repos\FinalExamPreparation-24July2019\2.SongEncryption\obj\Debug\netcoreapp3.1\2.SongEncryption.genruntimeconfig.cache

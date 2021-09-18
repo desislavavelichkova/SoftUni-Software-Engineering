@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\MidExam-10March2019Group1\03.MagicCards\bin\Debug\netcoreapp3.1\03.MagicCards.exe
+C:\Users\Desi\source\repos\MidExam-10March2019Group1\03.MagicCards\bin\Debug\netcoreapp3.1\03.MagicCards.deps.json
+C:\Users\Desi\source\repos\MidExam-10March2019Group1\03.MagicCards\bin\Debug\netcoreapp3.1\03.MagicCards.runtimeconfig.json
+C:\Users\Desi\source\repos\MidExam-10March2019Group1\03.MagicCards\bin\Debug\netcoreapp3.1\03.MagicCards.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\MidExam-10March2019Group1\03.MagicCards\bin\Debug\netcoreapp3.1\03.MagicCards.dll
+C:\Users\Desi\source\repos\MidExam-10March2019Group1\03.MagicCards\bin\Debug\netcoreapp3.1\03.MagicCards.pdb
+C:\Users\Desi\source\repos\MidExam-10March2019Group1\03.MagicCards\obj\Debug\netcoreapp3.1\03.MagicCards.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\MidExam-10March2019Group1\03.MagicCards\obj\Debug\netcoreapp3.1\03.MagicCards.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\MidExam-10March2019Group1\03.MagicCards\obj\Debug\netcoreapp3.1\03.MagicCards.AssemblyInfo.cs
+C:\Users\Desi\source\repos\MidExam-10March2019Group1\03.MagicCards\obj\Debug\netcoreapp3.1\03.MagicCards.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\MidExam-10March2019Group1\03.MagicCards\obj\Debug\netcoreapp3.1\03.MagicCards.dll
+C:\Users\Desi\source\repos\MidExam-10March2019Group1\03.MagicCards\obj\Debug\netcoreapp3.1\03.MagicCards.pdb
+C:\Users\Desi\source\repos\MidExam-10March2019Group1\03.MagicCards\obj\Debug\netcoreapp3.1\03.MagicCards.genruntimeconfig.cache

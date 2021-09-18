@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\RegularExpressions-Lab\Example\bin\Debug\netcoreapp3.1\Example.exe
+C:\Users\Desi\source\repos\RegularExpressions-Lab\Example\bin\Debug\netcoreapp3.1\Example.deps.json
+C:\Users\Desi\source\repos\RegularExpressions-Lab\Example\bin\Debug\netcoreapp3.1\Example.runtimeconfig.json
+C:\Users\Desi\source\repos\RegularExpressions-Lab\Example\bin\Debug\netcoreapp3.1\Example.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\RegularExpressions-Lab\Example\bin\Debug\netcoreapp3.1\Example.dll
+C:\Users\Desi\source\repos\RegularExpressions-Lab\Example\bin\Debug\netcoreapp3.1\Example.pdb
+C:\Users\Desi\source\repos\RegularExpressions-Lab\Example\obj\Debug\netcoreapp3.1\Example.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\RegularExpressions-Lab\Example\obj\Debug\netcoreapp3.1\Example.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\RegularExpressions-Lab\Example\obj\Debug\netcoreapp3.1\Example.AssemblyInfo.cs
+C:\Users\Desi\source\repos\RegularExpressions-Lab\Example\obj\Debug\netcoreapp3.1\Example.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\RegularExpressions-Lab\Example\obj\Debug\netcoreapp3.1\Example.dll
+C:\Users\Desi\source\repos\RegularExpressions-Lab\Example\obj\Debug\netcoreapp3.1\Example.pdb
+C:\Users\Desi\source\repos\RegularExpressions-Lab\Example\obj\Debug\netcoreapp3.1\Example.genruntimeconfig.cache

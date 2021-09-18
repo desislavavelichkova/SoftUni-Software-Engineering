@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\MidExam-29February2020Group1\03.Inventory\bin\Debug\netcoreapp3.1\03.Inventory.exe
+C:\Users\Desi\source\repos\MidExam-29February2020Group1\03.Inventory\bin\Debug\netcoreapp3.1\03.Inventory.deps.json
+C:\Users\Desi\source\repos\MidExam-29February2020Group1\03.Inventory\bin\Debug\netcoreapp3.1\03.Inventory.runtimeconfig.json
+C:\Users\Desi\source\repos\MidExam-29February2020Group1\03.Inventory\bin\Debug\netcoreapp3.1\03.Inventory.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\MidExam-29February2020Group1\03.Inventory\bin\Debug\netcoreapp3.1\03.Inventory.dll
+C:\Users\Desi\source\repos\MidExam-29February2020Group1\03.Inventory\bin\Debug\netcoreapp3.1\03.Inventory.pdb
+C:\Users\Desi\source\repos\MidExam-29February2020Group1\03.Inventory\obj\Debug\netcoreapp3.1\03.Inventory.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\MidExam-29February2020Group1\03.Inventory\obj\Debug\netcoreapp3.1\03.Inventory.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\MidExam-29February2020Group1\03.Inventory\obj\Debug\netcoreapp3.1\03.Inventory.AssemblyInfo.cs
+C:\Users\Desi\source\repos\MidExam-29February2020Group1\03.Inventory\obj\Debug\netcoreapp3.1\03.Inventory.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\MidExam-29February2020Group1\03.Inventory\obj\Debug\netcoreapp3.1\03.Inventory.dll
+C:\Users\Desi\source\repos\MidExam-29February2020Group1\03.Inventory\obj\Debug\netcoreapp3.1\03.Inventory.pdb
+C:\Users\Desi\source\repos\MidExam-29February2020Group1\03.Inventory\obj\Debug\netcoreapp3.1\03.Inventory.genruntimeconfig.cache

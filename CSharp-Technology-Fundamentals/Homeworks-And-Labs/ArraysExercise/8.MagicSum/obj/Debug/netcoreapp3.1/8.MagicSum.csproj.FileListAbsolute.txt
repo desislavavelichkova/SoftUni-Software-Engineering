@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\Arrays-Exercise\8.MagicSum\bin\Debug\netcoreapp3.1\8.MagicSum.exe
+C:\Users\Desi\source\repos\Arrays-Exercise\8.MagicSum\bin\Debug\netcoreapp3.1\8.MagicSum.deps.json
+C:\Users\Desi\source\repos\Arrays-Exercise\8.MagicSum\bin\Debug\netcoreapp3.1\8.MagicSum.runtimeconfig.json
+C:\Users\Desi\source\repos\Arrays-Exercise\8.MagicSum\bin\Debug\netcoreapp3.1\8.MagicSum.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\Arrays-Exercise\8.MagicSum\bin\Debug\netcoreapp3.1\8.MagicSum.dll
+C:\Users\Desi\source\repos\Arrays-Exercise\8.MagicSum\bin\Debug\netcoreapp3.1\8.MagicSum.pdb
+C:\Users\Desi\source\repos\Arrays-Exercise\8.MagicSum\obj\Debug\netcoreapp3.1\8.MagicSum.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\Arrays-Exercise\8.MagicSum\obj\Debug\netcoreapp3.1\8.MagicSum.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\Arrays-Exercise\8.MagicSum\obj\Debug\netcoreapp3.1\8.MagicSum.AssemblyInfo.cs
+C:\Users\Desi\source\repos\Arrays-Exercise\8.MagicSum\obj\Debug\netcoreapp3.1\8.MagicSum.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\Arrays-Exercise\8.MagicSum\obj\Debug\netcoreapp3.1\8.MagicSum.dll
+C:\Users\Desi\source\repos\Arrays-Exercise\8.MagicSum\obj\Debug\netcoreapp3.1\8.MagicSum.pdb
+C:\Users\Desi\source\repos\Arrays-Exercise\8.MagicSum\obj\Debug\netcoreapp3.1\8.MagicSum.genruntimeconfig.cache

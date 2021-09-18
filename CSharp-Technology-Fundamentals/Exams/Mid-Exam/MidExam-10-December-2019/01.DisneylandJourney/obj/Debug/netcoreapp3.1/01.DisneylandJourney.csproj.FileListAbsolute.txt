@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\MidExamRetake-10December2019\01.DisneylandJourney\bin\Debug\netcoreapp3.1\01.DisneylandJourney.exe
+C:\Users\Desi\source\repos\MidExamRetake-10December2019\01.DisneylandJourney\bin\Debug\netcoreapp3.1\01.DisneylandJourney.deps.json
+C:\Users\Desi\source\repos\MidExamRetake-10December2019\01.DisneylandJourney\bin\Debug\netcoreapp3.1\01.DisneylandJourney.runtimeconfig.json
+C:\Users\Desi\source\repos\MidExamRetake-10December2019\01.DisneylandJourney\bin\Debug\netcoreapp3.1\01.DisneylandJourney.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\MidExamRetake-10December2019\01.DisneylandJourney\bin\Debug\netcoreapp3.1\01.DisneylandJourney.dll
+C:\Users\Desi\source\repos\MidExamRetake-10December2019\01.DisneylandJourney\bin\Debug\netcoreapp3.1\01.DisneylandJourney.pdb
+C:\Users\Desi\source\repos\MidExamRetake-10December2019\01.DisneylandJourney\obj\Debug\netcoreapp3.1\01.DisneylandJourney.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\MidExamRetake-10December2019\01.DisneylandJourney\obj\Debug\netcoreapp3.1\01.DisneylandJourney.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\MidExamRetake-10December2019\01.DisneylandJourney\obj\Debug\netcoreapp3.1\01.DisneylandJourney.AssemblyInfo.cs
+C:\Users\Desi\source\repos\MidExamRetake-10December2019\01.DisneylandJourney\obj\Debug\netcoreapp3.1\01.DisneylandJourney.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\MidExamRetake-10December2019\01.DisneylandJourney\obj\Debug\netcoreapp3.1\01.DisneylandJourney.dll
+C:\Users\Desi\source\repos\MidExamRetake-10December2019\01.DisneylandJourney\obj\Debug\netcoreapp3.1\01.DisneylandJourney.pdb
+C:\Users\Desi\source\repos\MidExamRetake-10December2019\01.DisneylandJourney\obj\Debug\netcoreapp3.1\01.DisneylandJourney.genruntimeconfig.cache

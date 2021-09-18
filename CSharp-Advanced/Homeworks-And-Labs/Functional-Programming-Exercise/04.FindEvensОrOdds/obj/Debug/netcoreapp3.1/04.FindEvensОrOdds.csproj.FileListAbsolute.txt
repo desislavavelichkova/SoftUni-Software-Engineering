@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\3.Advance\Functional-Programming-Exercise\04.FindEvensОrOdds\bin\Debug\netcoreapp3.1\04.FindEvensОrOdds.exe
+C:\Users\Desi\source\repos\3.Advance\Functional-Programming-Exercise\04.FindEvensОrOdds\bin\Debug\netcoreapp3.1\04.FindEvensОrOdds.deps.json
+C:\Users\Desi\source\repos\3.Advance\Functional-Programming-Exercise\04.FindEvensОrOdds\bin\Debug\netcoreapp3.1\04.FindEvensОrOdds.runtimeconfig.json
+C:\Users\Desi\source\repos\3.Advance\Functional-Programming-Exercise\04.FindEvensОrOdds\bin\Debug\netcoreapp3.1\04.FindEvensОrOdds.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\3.Advance\Functional-Programming-Exercise\04.FindEvensОrOdds\bin\Debug\netcoreapp3.1\04.FindEvensОrOdds.dll
+C:\Users\Desi\source\repos\3.Advance\Functional-Programming-Exercise\04.FindEvensОrOdds\bin\Debug\netcoreapp3.1\04.FindEvensОrOdds.pdb
+C:\Users\Desi\source\repos\3.Advance\Functional-Programming-Exercise\04.FindEvensОrOdds\obj\Debug\netcoreapp3.1\04.FindEvensОrOdds.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\3.Advance\Functional-Programming-Exercise\04.FindEvensОrOdds\obj\Debug\netcoreapp3.1\04.FindEvensОrOdds.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\3.Advance\Functional-Programming-Exercise\04.FindEvensОrOdds\obj\Debug\netcoreapp3.1\04.FindEvensОrOdds.AssemblyInfo.cs
+C:\Users\Desi\source\repos\3.Advance\Functional-Programming-Exercise\04.FindEvensОrOdds\obj\Debug\netcoreapp3.1\04.FindEvensОrOdds.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\3.Advance\Functional-Programming-Exercise\04.FindEvensОrOdds\obj\Debug\netcoreapp3.1\04.FindEvensОrOdds.dll
+C:\Users\Desi\source\repos\3.Advance\Functional-Programming-Exercise\04.FindEvensОrOdds\obj\Debug\netcoreapp3.1\04.FindEvensОrOdds.pdb
+C:\Users\Desi\source\repos\3.Advance\Functional-Programming-Exercise\04.FindEvensОrOdds\obj\Debug\netcoreapp3.1\04.FindEvensОrOdds.genruntimeconfig.cache

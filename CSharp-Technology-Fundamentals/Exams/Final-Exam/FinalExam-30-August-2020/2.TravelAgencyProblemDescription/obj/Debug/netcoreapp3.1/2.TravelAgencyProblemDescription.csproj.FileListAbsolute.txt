@@ -1,0 +1,12 @@
+C:\Users\Desi\source\repos\EXAM_30.08.2020\2.TravelAgencyProblemDescription\bin\Debug\netcoreapp3.1\2.TravelAgencyProblemDescription.exe
+C:\Users\Desi\source\repos\EXAM_30.08.2020\2.TravelAgencyProblemDescription\bin\Debug\netcoreapp3.1\2.TravelAgencyProblemDescription.deps.json
+C:\Users\Desi\source\repos\EXAM_30.08.2020\2.TravelAgencyProblemDescription\bin\Debug\netcoreapp3.1\2.TravelAgencyProblemDescription.runtimeconfig.json
+C:\Users\Desi\source\repos\EXAM_30.08.2020\2.TravelAgencyProblemDescription\bin\Debug\netcoreapp3.1\2.TravelAgencyProblemDescription.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\EXAM_30.08.2020\2.TravelAgencyProblemDescription\bin\Debug\netcoreapp3.1\2.TravelAgencyProblemDescription.dll
+C:\Users\Desi\source\repos\EXAM_30.08.2020\2.TravelAgencyProblemDescription\bin\Debug\netcoreapp3.1\2.TravelAgencyProblemDescription.pdb
+C:\Users\Desi\source\repos\EXAM_30.08.2020\2.TravelAgencyProblemDescription\obj\Debug\netcoreapp3.1\2.TravelAgencyProblemDescription.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\EXAM_30.08.2020\2.TravelAgencyProblemDescription\obj\Debug\netcoreapp3.1\2.TravelAgencyProblemDescription.AssemblyInfo.cs
+C:\Users\Desi\source\repos\EXAM_30.08.2020\2.TravelAgencyProblemDescription\obj\Debug\netcoreapp3.1\2.TravelAgencyProblemDescription.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\EXAM_30.08.2020\2.TravelAgencyProblemDescription\obj\Debug\netcoreapp3.1\2.TravelAgencyProblemDescription.dll
+C:\Users\Desi\source\repos\EXAM_30.08.2020\2.TravelAgencyProblemDescription\obj\Debug\netcoreapp3.1\2.TravelAgencyProblemDescription.pdb
+C:\Users\Desi\source\repos\EXAM_30.08.2020\2.TravelAgencyProblemDescription\obj\Debug\netcoreapp3.1\2.TravelAgencyProblemDescription.genruntimeconfig.cache

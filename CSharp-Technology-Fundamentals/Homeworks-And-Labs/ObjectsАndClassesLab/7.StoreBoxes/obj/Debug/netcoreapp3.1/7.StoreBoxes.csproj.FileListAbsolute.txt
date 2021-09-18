@@ -1,0 +1,16 @@
+C:\Users\Desi\source\repos\ObjectsАndClasses-Lab\7.StoreBoxes\bin\Debug\netcoreapp3.1\7.StoreBoxes.exe
+C:\Users\Desi\source\repos\ObjectsАndClasses-Lab\7.StoreBoxes\obj\Debug\netcoreapp3.1\7.StoreBoxes.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\ObjectsАndClasses-Lab\7.StoreBoxes\obj\Debug\netcoreapp3.1\7.StoreBoxes.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\ObjectsАndClasses-Lab\7.StoreBoxes\obj\Debug\netcoreapp3.1\7.StoreBoxes.AssemblyInfo.cs
+C:\Users\Desi\source\repos\ObjectsАndClasses-Lab\7.StoreBoxes\bin\Debug\netcoreapp3.1\7.StoreBoxes.deps.json
+C:\Users\Desi\source\repos\ObjectsАndClasses-Lab\7.StoreBoxes\bin\Debug\netcoreapp3.1\7.StoreBoxes.runtimeconfig.json
+C:\Users\Desi\source\repos\ObjectsАndClasses-Lab\7.StoreBoxes\bin\Debug\netcoreapp3.1\7.StoreBoxes.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\ObjectsАndClasses-Lab\7.StoreBoxes\bin\Debug\netcoreapp3.1\7.StoreBoxes.dll
+C:\Users\Desi\source\repos\ObjectsАndClasses-Lab\7.StoreBoxes\bin\Debug\netcoreapp3.1\7.StoreBoxes.pdb
+C:\Users\Desi\source\repos\ObjectsАndClasses-Lab\7.StoreBoxes\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\Desi\source\repos\ObjectsАndClasses-Lab\7.StoreBoxes\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\Desi\source\repos\ObjectsАndClasses-Lab\7.StoreBoxes\obj\Debug\netcoreapp3.1\7.StoreBoxes.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\ObjectsАndClasses-Lab\7.StoreBoxes\obj\Debug\netcoreapp3.1\7.StoreBoxes.csproj.CopyComplete
+C:\Users\Desi\source\repos\ObjectsАndClasses-Lab\7.StoreBoxes\obj\Debug\netcoreapp3.1\7.StoreBoxes.dll
+C:\Users\Desi\source\repos\ObjectsАndClasses-Lab\7.StoreBoxes\obj\Debug\netcoreapp3.1\7.StoreBoxes.pdb
+C:\Users\Desi\source\repos\ObjectsАndClasses-Lab\7.StoreBoxes\obj\Debug\netcoreapp3.1\7.StoreBoxes.genruntimeconfig.cache

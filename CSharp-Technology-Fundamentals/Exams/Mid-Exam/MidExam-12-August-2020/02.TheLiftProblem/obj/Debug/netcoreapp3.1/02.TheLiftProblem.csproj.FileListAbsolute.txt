@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\MidExam-12 August2020\02.TheLiftProblem\bin\Debug\netcoreapp3.1\02.TheLiftProblem.exe
+C:\Users\Desi\source\repos\MidExam-12 August2020\02.TheLiftProblem\bin\Debug\netcoreapp3.1\02.TheLiftProblem.deps.json
+C:\Users\Desi\source\repos\MidExam-12 August2020\02.TheLiftProblem\bin\Debug\netcoreapp3.1\02.TheLiftProblem.runtimeconfig.json
+C:\Users\Desi\source\repos\MidExam-12 August2020\02.TheLiftProblem\bin\Debug\netcoreapp3.1\02.TheLiftProblem.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\MidExam-12 August2020\02.TheLiftProblem\bin\Debug\netcoreapp3.1\02.TheLiftProblem.dll
+C:\Users\Desi\source\repos\MidExam-12 August2020\02.TheLiftProblem\bin\Debug\netcoreapp3.1\02.TheLiftProblem.pdb
+C:\Users\Desi\source\repos\MidExam-12 August2020\02.TheLiftProblem\obj\Debug\netcoreapp3.1\02.TheLiftProblem.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\MidExam-12 August2020\02.TheLiftProblem\obj\Debug\netcoreapp3.1\02.TheLiftProblem.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\MidExam-12 August2020\02.TheLiftProblem\obj\Debug\netcoreapp3.1\02.TheLiftProblem.AssemblyInfo.cs
+C:\Users\Desi\source\repos\MidExam-12 August2020\02.TheLiftProblem\obj\Debug\netcoreapp3.1\02.TheLiftProblem.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\MidExam-12 August2020\02.TheLiftProblem\obj\Debug\netcoreapp3.1\02.TheLiftProblem.dll
+C:\Users\Desi\source\repos\MidExam-12 August2020\02.TheLiftProblem\obj\Debug\netcoreapp3.1\02.TheLiftProblem.pdb
+C:\Users\Desi\source\repos\MidExam-12 August2020\02.TheLiftProblem\obj\Debug\netcoreapp3.1\02.TheLiftProblem.genruntimeconfig.cache

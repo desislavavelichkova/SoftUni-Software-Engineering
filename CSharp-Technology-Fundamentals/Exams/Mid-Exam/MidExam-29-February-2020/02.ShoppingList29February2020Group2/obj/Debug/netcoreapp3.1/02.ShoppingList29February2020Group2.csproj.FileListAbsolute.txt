@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\MidExam-29February2020Group1\02.ShoppingList29February2020Group2\bin\Debug\netcoreapp3.1\02.ShoppingList29February2020Group2.exe
+C:\Users\Desi\source\repos\MidExam-29February2020Group1\02.ShoppingList29February2020Group2\bin\Debug\netcoreapp3.1\02.ShoppingList29February2020Group2.deps.json
+C:\Users\Desi\source\repos\MidExam-29February2020Group1\02.ShoppingList29February2020Group2\bin\Debug\netcoreapp3.1\02.ShoppingList29February2020Group2.runtimeconfig.json
+C:\Users\Desi\source\repos\MidExam-29February2020Group1\02.ShoppingList29February2020Group2\bin\Debug\netcoreapp3.1\02.ShoppingList29February2020Group2.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\MidExam-29February2020Group1\02.ShoppingList29February2020Group2\bin\Debug\netcoreapp3.1\02.ShoppingList29February2020Group2.dll
+C:\Users\Desi\source\repos\MidExam-29February2020Group1\02.ShoppingList29February2020Group2\bin\Debug\netcoreapp3.1\02.ShoppingList29February2020Group2.pdb
+C:\Users\Desi\source\repos\MidExam-29February2020Group1\02.ShoppingList29February2020Group2\obj\Debug\netcoreapp3.1\02.ShoppingList29February2020Group2.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\MidExam-29February2020Group1\02.ShoppingList29February2020Group2\obj\Debug\netcoreapp3.1\02.ShoppingList29February2020Group2.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\MidExam-29February2020Group1\02.ShoppingList29February2020Group2\obj\Debug\netcoreapp3.1\02.ShoppingList29February2020Group2.AssemblyInfo.cs
+C:\Users\Desi\source\repos\MidExam-29February2020Group1\02.ShoppingList29February2020Group2\obj\Debug\netcoreapp3.1\02.ShoppingList29February2020Group2.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\MidExam-29February2020Group1\02.ShoppingList29February2020Group2\obj\Debug\netcoreapp3.1\02.ShoppingList29February2020Group2.dll
+C:\Users\Desi\source\repos\MidExam-29February2020Group1\02.ShoppingList29February2020Group2\obj\Debug\netcoreapp3.1\02.ShoppingList29February2020Group2.pdb
+C:\Users\Desi\source\repos\MidExam-29February2020Group1\02.ShoppingList29February2020Group2\obj\Debug\netcoreapp3.1\02.ShoppingList29February2020Group2.genruntimeconfig.cache

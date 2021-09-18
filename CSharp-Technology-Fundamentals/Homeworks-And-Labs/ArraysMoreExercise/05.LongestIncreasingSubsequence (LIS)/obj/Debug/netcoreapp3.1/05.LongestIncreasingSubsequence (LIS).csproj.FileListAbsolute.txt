@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\Arrays-MoreExercise\05.LongestIncreasingSubsequence (LIS)\bin\Debug\netcoreapp3.1\05.LongestIncreasingSubsequence (LIS).exe
+C:\Users\Desi\source\repos\Arrays-MoreExercise\05.LongestIncreasingSubsequence (LIS)\bin\Debug\netcoreapp3.1\05.LongestIncreasingSubsequence (LIS).deps.json
+C:\Users\Desi\source\repos\Arrays-MoreExercise\05.LongestIncreasingSubsequence (LIS)\bin\Debug\netcoreapp3.1\05.LongestIncreasingSubsequence (LIS).runtimeconfig.json
+C:\Users\Desi\source\repos\Arrays-MoreExercise\05.LongestIncreasingSubsequence (LIS)\bin\Debug\netcoreapp3.1\05.LongestIncreasingSubsequence (LIS).runtimeconfig.dev.json
+C:\Users\Desi\source\repos\Arrays-MoreExercise\05.LongestIncreasingSubsequence (LIS)\bin\Debug\netcoreapp3.1\05.LongestIncreasingSubsequence (LIS).dll
+C:\Users\Desi\source\repos\Arrays-MoreExercise\05.LongestIncreasingSubsequence (LIS)\bin\Debug\netcoreapp3.1\05.LongestIncreasingSubsequence (LIS).pdb
+C:\Users\Desi\source\repos\Arrays-MoreExercise\05.LongestIncreasingSubsequence (LIS)\obj\Debug\netcoreapp3.1\05.LongestIncreasingSubsequence (LIS).csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\Arrays-MoreExercise\05.LongestIncreasingSubsequence (LIS)\obj\Debug\netcoreapp3.1\05.LongestIncreasingSubsequence (LIS).AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\Arrays-MoreExercise\05.LongestIncreasingSubsequence (LIS)\obj\Debug\netcoreapp3.1\05.LongestIncreasingSubsequence (LIS).AssemblyInfo.cs
+C:\Users\Desi\source\repos\Arrays-MoreExercise\05.LongestIncreasingSubsequence (LIS)\obj\Debug\netcoreapp3.1\05.LongestIncreasingSubsequence (LIS).csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\Arrays-MoreExercise\05.LongestIncreasingSubsequence (LIS)\obj\Debug\netcoreapp3.1\05.LongestIncreasingSubsequence (LIS).dll
+C:\Users\Desi\source\repos\Arrays-MoreExercise\05.LongestIncreasingSubsequence (LIS)\obj\Debug\netcoreapp3.1\05.LongestIncreasingSubsequence (LIS).pdb
+C:\Users\Desi\source\repos\Arrays-MoreExercise\05.LongestIncreasingSubsequence (LIS)\obj\Debug\netcoreapp3.1\05.LongestIncreasingSubsequence (LIS).genruntimeconfig.cache

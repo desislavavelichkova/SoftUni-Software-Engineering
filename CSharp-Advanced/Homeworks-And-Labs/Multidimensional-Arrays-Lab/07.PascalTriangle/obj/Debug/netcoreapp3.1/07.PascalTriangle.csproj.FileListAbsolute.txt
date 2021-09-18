@@ -1,0 +1,12 @@
+C:\Users\Desi\source\repos\02.CSharp-Advanced-Multidimensional-Arrays-Lab\07.PascalTriangle\bin\Debug\netcoreapp3.1\07.PascalTriangle.exe
+C:\Users\Desi\source\repos\02.CSharp-Advanced-Multidimensional-Arrays-Lab\07.PascalTriangle\bin\Debug\netcoreapp3.1\07.PascalTriangle.deps.json
+C:\Users\Desi\source\repos\02.CSharp-Advanced-Multidimensional-Arrays-Lab\07.PascalTriangle\bin\Debug\netcoreapp3.1\07.PascalTriangle.runtimeconfig.json
+C:\Users\Desi\source\repos\02.CSharp-Advanced-Multidimensional-Arrays-Lab\07.PascalTriangle\bin\Debug\netcoreapp3.1\07.PascalTriangle.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\02.CSharp-Advanced-Multidimensional-Arrays-Lab\07.PascalTriangle\bin\Debug\netcoreapp3.1\07.PascalTriangle.dll
+C:\Users\Desi\source\repos\02.CSharp-Advanced-Multidimensional-Arrays-Lab\07.PascalTriangle\bin\Debug\netcoreapp3.1\07.PascalTriangle.pdb
+C:\Users\Desi\source\repos\02.CSharp-Advanced-Multidimensional-Arrays-Lab\07.PascalTriangle\obj\Debug\netcoreapp3.1\07.PascalTriangle.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\02.CSharp-Advanced-Multidimensional-Arrays-Lab\07.PascalTriangle\obj\Debug\netcoreapp3.1\07.PascalTriangle.AssemblyInfo.cs
+C:\Users\Desi\source\repos\02.CSharp-Advanced-Multidimensional-Arrays-Lab\07.PascalTriangle\obj\Debug\netcoreapp3.1\07.PascalTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\02.CSharp-Advanced-Multidimensional-Arrays-Lab\07.PascalTriangle\obj\Debug\netcoreapp3.1\07.PascalTriangle.dll
+C:\Users\Desi\source\repos\02.CSharp-Advanced-Multidimensional-Arrays-Lab\07.PascalTriangle\obj\Debug\netcoreapp3.1\07.PascalTriangle.pdb
+C:\Users\Desi\source\repos\02.CSharp-Advanced-Multidimensional-Arrays-Lab\07.PascalTriangle\obj\Debug\netcoreapp3.1\07.PascalTriangle.genruntimeconfig.cache

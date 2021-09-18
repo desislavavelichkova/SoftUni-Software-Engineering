@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\StacksAndQueues-Exercise\06.SongsQueue\bin\Debug\netcoreapp3.1\06.SongsQueue.exe
+C:\Users\Desi\source\repos\StacksAndQueues-Exercise\06.SongsQueue\bin\Debug\netcoreapp3.1\06.SongsQueue.deps.json
+C:\Users\Desi\source\repos\StacksAndQueues-Exercise\06.SongsQueue\bin\Debug\netcoreapp3.1\06.SongsQueue.runtimeconfig.json
+C:\Users\Desi\source\repos\StacksAndQueues-Exercise\06.SongsQueue\bin\Debug\netcoreapp3.1\06.SongsQueue.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\StacksAndQueues-Exercise\06.SongsQueue\bin\Debug\netcoreapp3.1\06.SongsQueue.dll
+C:\Users\Desi\source\repos\StacksAndQueues-Exercise\06.SongsQueue\bin\Debug\netcoreapp3.1\06.SongsQueue.pdb
+C:\Users\Desi\source\repos\StacksAndQueues-Exercise\06.SongsQueue\obj\Debug\netcoreapp3.1\06.SongsQueue.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\StacksAndQueues-Exercise\06.SongsQueue\obj\Debug\netcoreapp3.1\06.SongsQueue.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\StacksAndQueues-Exercise\06.SongsQueue\obj\Debug\netcoreapp3.1\06.SongsQueue.AssemblyInfo.cs
+C:\Users\Desi\source\repos\StacksAndQueues-Exercise\06.SongsQueue\obj\Debug\netcoreapp3.1\06.SongsQueue.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\StacksAndQueues-Exercise\06.SongsQueue\obj\Debug\netcoreapp3.1\06.SongsQueue.dll
+C:\Users\Desi\source\repos\StacksAndQueues-Exercise\06.SongsQueue\obj\Debug\netcoreapp3.1\06.SongsQueue.pdb
+C:\Users\Desi\source\repos\StacksAndQueues-Exercise\06.SongsQueue\obj\Debug\netcoreapp3.1\06.SongsQueue.genruntimeconfig.cache

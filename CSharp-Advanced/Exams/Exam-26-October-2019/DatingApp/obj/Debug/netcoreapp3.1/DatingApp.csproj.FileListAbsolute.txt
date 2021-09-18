@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\3.Advance\EXAM-RETAKE\Exam-26October2019\DatingApp\bin\Debug\netcoreapp3.1\DatingApp.exe
+C:\Users\Desi\source\repos\3.Advance\EXAM-RETAKE\Exam-26October2019\DatingApp\bin\Debug\netcoreapp3.1\DatingApp.deps.json
+C:\Users\Desi\source\repos\3.Advance\EXAM-RETAKE\Exam-26October2019\DatingApp\bin\Debug\netcoreapp3.1\DatingApp.runtimeconfig.json
+C:\Users\Desi\source\repos\3.Advance\EXAM-RETAKE\Exam-26October2019\DatingApp\bin\Debug\netcoreapp3.1\DatingApp.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\3.Advance\EXAM-RETAKE\Exam-26October2019\DatingApp\bin\Debug\netcoreapp3.1\DatingApp.dll
+C:\Users\Desi\source\repos\3.Advance\EXAM-RETAKE\Exam-26October2019\DatingApp\bin\Debug\netcoreapp3.1\DatingApp.pdb
+C:\Users\Desi\source\repos\3.Advance\EXAM-RETAKE\Exam-26October2019\DatingApp\obj\Debug\netcoreapp3.1\DatingApp.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\3.Advance\EXAM-RETAKE\Exam-26October2019\DatingApp\obj\Debug\netcoreapp3.1\DatingApp.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\3.Advance\EXAM-RETAKE\Exam-26October2019\DatingApp\obj\Debug\netcoreapp3.1\DatingApp.AssemblyInfo.cs
+C:\Users\Desi\source\repos\3.Advance\EXAM-RETAKE\Exam-26October2019\DatingApp\obj\Debug\netcoreapp3.1\DatingApp.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\3.Advance\EXAM-RETAKE\Exam-26October2019\DatingApp\obj\Debug\netcoreapp3.1\DatingApp.dll
+C:\Users\Desi\source\repos\3.Advance\EXAM-RETAKE\Exam-26October2019\DatingApp\obj\Debug\netcoreapp3.1\DatingApp.pdb
+C:\Users\Desi\source\repos\3.Advance\EXAM-RETAKE\Exam-26October2019\DatingApp\obj\Debug\netcoreapp3.1\DatingApp.genruntimeconfig.cache

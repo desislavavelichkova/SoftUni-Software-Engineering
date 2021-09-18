@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\EXAM_30.08.2020\3.KartCenter_ProblemDescription\obj\Debug\netcoreapp3.1\3.KartCenter_ProblemDescription.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\EXAM_30.08.2020\3.KartCenter_ProblemDescription\obj\Debug\netcoreapp3.1\3.KartCenter_ProblemDescription.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\EXAM_30.08.2020\3.KartCenter_ProblemDescription\obj\Debug\netcoreapp3.1\3.KartCenter_ProblemDescription.AssemblyInfo.cs
+C:\Users\Desi\source\repos\EXAM_30.08.2020\3.KartCenter_ProblemDescription\obj\Debug\netcoreapp3.1\3.KartCenter_ProblemDescription.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\EXAM_30.08.2020\3.KartCenter_ProblemDescription\bin\Debug\netcoreapp3.1\3.KartCenter_ProblemDescription.exe
+C:\Users\Desi\source\repos\EXAM_30.08.2020\3.KartCenter_ProblemDescription\bin\Debug\netcoreapp3.1\3.KartCenter_ProblemDescription.deps.json
+C:\Users\Desi\source\repos\EXAM_30.08.2020\3.KartCenter_ProblemDescription\bin\Debug\netcoreapp3.1\3.KartCenter_ProblemDescription.runtimeconfig.json
+C:\Users\Desi\source\repos\EXAM_30.08.2020\3.KartCenter_ProblemDescription\bin\Debug\netcoreapp3.1\3.KartCenter_ProblemDescription.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\EXAM_30.08.2020\3.KartCenter_ProblemDescription\bin\Debug\netcoreapp3.1\3.KartCenter_ProblemDescription.dll
+C:\Users\Desi\source\repos\EXAM_30.08.2020\3.KartCenter_ProblemDescription\bin\Debug\netcoreapp3.1\3.KartCenter_ProblemDescription.pdb
+C:\Users\Desi\source\repos\EXAM_30.08.2020\3.KartCenter_ProblemDescription\obj\Debug\netcoreapp3.1\3.KartCenter_ProblemDescription.dll
+C:\Users\Desi\source\repos\EXAM_30.08.2020\3.KartCenter_ProblemDescription\obj\Debug\netcoreapp3.1\3.KartCenter_ProblemDescription.pdb
+C:\Users\Desi\source\repos\EXAM_30.08.2020\3.KartCenter_ProblemDescription\obj\Debug\netcoreapp3.1\3.KartCenter_ProblemDescription.genruntimeconfig.cache

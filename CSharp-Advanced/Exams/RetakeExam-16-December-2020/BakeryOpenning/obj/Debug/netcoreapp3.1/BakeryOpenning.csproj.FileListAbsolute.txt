@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\RetakeExam-16December2020\BakeryOpenning\bin\Debug\netcoreapp3.1\BakeryOpenning.exe
+C:\Users\Desi\source\repos\RetakeExam-16December2020\BakeryOpenning\bin\Debug\netcoreapp3.1\BakeryOpenning.deps.json
+C:\Users\Desi\source\repos\RetakeExam-16December2020\BakeryOpenning\bin\Debug\netcoreapp3.1\BakeryOpenning.runtimeconfig.json
+C:\Users\Desi\source\repos\RetakeExam-16December2020\BakeryOpenning\bin\Debug\netcoreapp3.1\BakeryOpenning.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\RetakeExam-16December2020\BakeryOpenning\bin\Debug\netcoreapp3.1\BakeryOpenning.dll
+C:\Users\Desi\source\repos\RetakeExam-16December2020\BakeryOpenning\bin\Debug\netcoreapp3.1\BakeryOpenning.pdb
+C:\Users\Desi\source\repos\RetakeExam-16December2020\BakeryOpenning\obj\Debug\netcoreapp3.1\BakeryOpenning.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\RetakeExam-16December2020\BakeryOpenning\obj\Debug\netcoreapp3.1\BakeryOpenning.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\RetakeExam-16December2020\BakeryOpenning\obj\Debug\netcoreapp3.1\BakeryOpenning.AssemblyInfo.cs
+C:\Users\Desi\source\repos\RetakeExam-16December2020\BakeryOpenning\obj\Debug\netcoreapp3.1\BakeryOpenning.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\RetakeExam-16December2020\BakeryOpenning\obj\Debug\netcoreapp3.1\BakeryOpenning.dll
+C:\Users\Desi\source\repos\RetakeExam-16December2020\BakeryOpenning\obj\Debug\netcoreapp3.1\BakeryOpenning.pdb
+C:\Users\Desi\source\repos\RetakeExam-16December2020\BakeryOpenning\obj\Debug\netcoreapp3.1\BakeryOpenning.genruntimeconfig.cache

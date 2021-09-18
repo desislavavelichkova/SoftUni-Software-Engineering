@@ -1,0 +1,12 @@
+C:\Users\Desi\source\repos\3.Advance\EXAM-RETAKE\Exam-24Feb2019\Heroes\obj\Debug\netcoreapp2.1\Heroes.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\3.Advance\EXAM-RETAKE\Exam-24Feb2019\Heroes\obj\Debug\netcoreapp2.1\Heroes.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\3.Advance\EXAM-RETAKE\Exam-24Feb2019\Heroes\obj\Debug\netcoreapp2.1\Heroes.AssemblyInfo.cs
+C:\Users\Desi\source\repos\3.Advance\EXAM-RETAKE\Exam-24Feb2019\Heroes\obj\Debug\netcoreapp2.1\Heroes.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\3.Advance\EXAM-RETAKE\Exam-24Feb2019\Heroes\bin\Debug\netcoreapp2.1\Heroes.deps.json
+C:\Users\Desi\source\repos\3.Advance\EXAM-RETAKE\Exam-24Feb2019\Heroes\bin\Debug\netcoreapp2.1\Heroes.runtimeconfig.json
+C:\Users\Desi\source\repos\3.Advance\EXAM-RETAKE\Exam-24Feb2019\Heroes\bin\Debug\netcoreapp2.1\Heroes.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\3.Advance\EXAM-RETAKE\Exam-24Feb2019\Heroes\bin\Debug\netcoreapp2.1\Heroes.dll
+C:\Users\Desi\source\repos\3.Advance\EXAM-RETAKE\Exam-24Feb2019\Heroes\bin\Debug\netcoreapp2.1\Heroes.pdb
+C:\Users\Desi\source\repos\3.Advance\EXAM-RETAKE\Exam-24Feb2019\Heroes\obj\Debug\netcoreapp2.1\Heroes.dll
+C:\Users\Desi\source\repos\3.Advance\EXAM-RETAKE\Exam-24Feb2019\Heroes\obj\Debug\netcoreapp2.1\Heroes.pdb
+C:\Users\Desi\source\repos\3.Advance\EXAM-RETAKE\Exam-24Feb2019\Heroes\obj\Debug\netcoreapp2.1\Heroes.genruntimeconfig.cache

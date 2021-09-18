@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops\9.SumОfOddNumbers\bin\Debug\netcoreapp3.1\9.SumОfOddNumbers.exe
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops\9.SumОfOddNumbers\bin\Debug\netcoreapp3.1\9.SumОfOddNumbers.deps.json
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops\9.SumОfOddNumbers\bin\Debug\netcoreapp3.1\9.SumОfOddNumbers.runtimeconfig.json
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops\9.SumОfOddNumbers\bin\Debug\netcoreapp3.1\9.SumОfOddNumbers.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops\9.SumОfOddNumbers\bin\Debug\netcoreapp3.1\9.SumОfOddNumbers.dll
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops\9.SumОfOddNumbers\bin\Debug\netcoreapp3.1\9.SumОfOddNumbers.pdb
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops\9.SumОfOddNumbers\obj\Debug\netcoreapp3.1\9.SumОfOddNumbers.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops\9.SumОfOddNumbers\obj\Debug\netcoreapp3.1\9.SumОfOddNumbers.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops\9.SumОfOddNumbers\obj\Debug\netcoreapp3.1\9.SumОfOddNumbers.AssemblyInfo.cs
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops\9.SumОfOddNumbers\obj\Debug\netcoreapp3.1\9.SumОfOddNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops\9.SumОfOddNumbers\obj\Debug\netcoreapp3.1\9.SumОfOddNumbers.dll
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops\9.SumОfOddNumbers\obj\Debug\netcoreapp3.1\9.SumОfOddNumbers.pdb
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops\9.SumОfOddNumbers\obj\Debug\netcoreapp3.1\9.SumОfOddNumbers.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\MidExam-10March2019Group1\02.Crafting\bin\Debug\netcoreapp3.1\02.Crafting.exe
+C:\Users\Desi\source\repos\MidExam-10March2019Group1\02.Crafting\bin\Debug\netcoreapp3.1\02.Crafting.deps.json
+C:\Users\Desi\source\repos\MidExam-10March2019Group1\02.Crafting\bin\Debug\netcoreapp3.1\02.Crafting.runtimeconfig.json
+C:\Users\Desi\source\repos\MidExam-10March2019Group1\02.Crafting\bin\Debug\netcoreapp3.1\02.Crafting.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\MidExam-10March2019Group1\02.Crafting\bin\Debug\netcoreapp3.1\02.Crafting.dll
+C:\Users\Desi\source\repos\MidExam-10March2019Group1\02.Crafting\bin\Debug\netcoreapp3.1\02.Crafting.pdb
+C:\Users\Desi\source\repos\MidExam-10March2019Group1\02.Crafting\obj\Debug\netcoreapp3.1\02.Crafting.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\MidExam-10March2019Group1\02.Crafting\obj\Debug\netcoreapp3.1\02.Crafting.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\MidExam-10March2019Group1\02.Crafting\obj\Debug\netcoreapp3.1\02.Crafting.AssemblyInfo.cs
+C:\Users\Desi\source\repos\MidExam-10March2019Group1\02.Crafting\obj\Debug\netcoreapp3.1\02.Crafting.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\MidExam-10March2019Group1\02.Crafting\obj\Debug\netcoreapp3.1\02.Crafting.dll
+C:\Users\Desi\source\repos\MidExam-10March2019Group1\02.Crafting\obj\Debug\netcoreapp3.1\02.Crafting.pdb
+C:\Users\Desi\source\repos\MidExam-10March2019Group1\02.Crafting\obj\Debug\netcoreapp3.1\02.Crafting.genruntimeconfig.cache

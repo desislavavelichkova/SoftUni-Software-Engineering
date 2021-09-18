@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\02. CSharp-Advanced-Multidimensional-Arrays-Exercises\01.DiagonalDifference\bin\Debug\netcoreapp3.1\01.DiagonalDifference.exe
+C:\Users\Desi\source\repos\02. CSharp-Advanced-Multidimensional-Arrays-Exercises\01.DiagonalDifference\bin\Debug\netcoreapp3.1\01.DiagonalDifference.deps.json
+C:\Users\Desi\source\repos\02. CSharp-Advanced-Multidimensional-Arrays-Exercises\01.DiagonalDifference\bin\Debug\netcoreapp3.1\01.DiagonalDifference.runtimeconfig.json
+C:\Users\Desi\source\repos\02. CSharp-Advanced-Multidimensional-Arrays-Exercises\01.DiagonalDifference\bin\Debug\netcoreapp3.1\01.DiagonalDifference.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\02. CSharp-Advanced-Multidimensional-Arrays-Exercises\01.DiagonalDifference\bin\Debug\netcoreapp3.1\01.DiagonalDifference.dll
+C:\Users\Desi\source\repos\02. CSharp-Advanced-Multidimensional-Arrays-Exercises\01.DiagonalDifference\bin\Debug\netcoreapp3.1\01.DiagonalDifference.pdb
+C:\Users\Desi\source\repos\02. CSharp-Advanced-Multidimensional-Arrays-Exercises\01.DiagonalDifference\obj\Debug\netcoreapp3.1\01.DiagonalDifference.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\02. CSharp-Advanced-Multidimensional-Arrays-Exercises\01.DiagonalDifference\obj\Debug\netcoreapp3.1\01.DiagonalDifference.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\02. CSharp-Advanced-Multidimensional-Arrays-Exercises\01.DiagonalDifference\obj\Debug\netcoreapp3.1\01.DiagonalDifference.AssemblyInfo.cs
+C:\Users\Desi\source\repos\02. CSharp-Advanced-Multidimensional-Arrays-Exercises\01.DiagonalDifference\obj\Debug\netcoreapp3.1\01.DiagonalDifference.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\02. CSharp-Advanced-Multidimensional-Arrays-Exercises\01.DiagonalDifference\obj\Debug\netcoreapp3.1\01.DiagonalDifference.dll
+C:\Users\Desi\source\repos\02. CSharp-Advanced-Multidimensional-Arrays-Exercises\01.DiagonalDifference\obj\Debug\netcoreapp3.1\01.DiagonalDifference.pdb
+C:\Users\Desi\source\repos\02. CSharp-Advanced-Multidimensional-Arrays-Exercises\01.DiagonalDifference\obj\Debug\netcoreapp3.1\01.DiagonalDifference.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\3.Advance\EXAM-RETAKE\Exam-26October2019\BookWorm\bin\Debug\netcoreapp3.1\BookWorm.exe
+C:\Users\Desi\source\repos\3.Advance\EXAM-RETAKE\Exam-26October2019\BookWorm\bin\Debug\netcoreapp3.1\BookWorm.deps.json
+C:\Users\Desi\source\repos\3.Advance\EXAM-RETAKE\Exam-26October2019\BookWorm\bin\Debug\netcoreapp3.1\BookWorm.runtimeconfig.json
+C:\Users\Desi\source\repos\3.Advance\EXAM-RETAKE\Exam-26October2019\BookWorm\bin\Debug\netcoreapp3.1\BookWorm.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\3.Advance\EXAM-RETAKE\Exam-26October2019\BookWorm\bin\Debug\netcoreapp3.1\BookWorm.dll
+C:\Users\Desi\source\repos\3.Advance\EXAM-RETAKE\Exam-26October2019\BookWorm\bin\Debug\netcoreapp3.1\BookWorm.pdb
+C:\Users\Desi\source\repos\3.Advance\EXAM-RETAKE\Exam-26October2019\BookWorm\obj\Debug\netcoreapp3.1\BookWorm.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\3.Advance\EXAM-RETAKE\Exam-26October2019\BookWorm\obj\Debug\netcoreapp3.1\BookWorm.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\3.Advance\EXAM-RETAKE\Exam-26October2019\BookWorm\obj\Debug\netcoreapp3.1\BookWorm.AssemblyInfo.cs
+C:\Users\Desi\source\repos\3.Advance\EXAM-RETAKE\Exam-26October2019\BookWorm\obj\Debug\netcoreapp3.1\BookWorm.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\3.Advance\EXAM-RETAKE\Exam-26October2019\BookWorm\obj\Debug\netcoreapp3.1\BookWorm.dll
+C:\Users\Desi\source\repos\3.Advance\EXAM-RETAKE\Exam-26October2019\BookWorm\obj\Debug\netcoreapp3.1\BookWorm.pdb
+C:\Users\Desi\source\repos\3.Advance\EXAM-RETAKE\Exam-26October2019\BookWorm\obj\Debug\netcoreapp3.1\BookWorm.genruntimeconfig.cache

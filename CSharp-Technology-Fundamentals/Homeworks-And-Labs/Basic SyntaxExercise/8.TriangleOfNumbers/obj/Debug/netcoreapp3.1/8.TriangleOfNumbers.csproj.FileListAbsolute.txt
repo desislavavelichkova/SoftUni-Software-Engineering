@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\8.TriangleOfNumbers\bin\Debug\netcoreapp3.1\8.TriangleOfNumbers.exe
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\8.TriangleOfNumbers\bin\Debug\netcoreapp3.1\8.TriangleOfNumbers.deps.json
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\8.TriangleOfNumbers\bin\Debug\netcoreapp3.1\8.TriangleOfNumbers.runtimeconfig.json
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\8.TriangleOfNumbers\bin\Debug\netcoreapp3.1\8.TriangleOfNumbers.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\8.TriangleOfNumbers\bin\Debug\netcoreapp3.1\8.TriangleOfNumbers.dll
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\8.TriangleOfNumbers\bin\Debug\netcoreapp3.1\8.TriangleOfNumbers.pdb
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\8.TriangleOfNumbers\obj\Debug\netcoreapp3.1\8.TriangleOfNumbers.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\8.TriangleOfNumbers\obj\Debug\netcoreapp3.1\8.TriangleOfNumbers.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\8.TriangleOfNumbers\obj\Debug\netcoreapp3.1\8.TriangleOfNumbers.AssemblyInfo.cs
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\8.TriangleOfNumbers\obj\Debug\netcoreapp3.1\8.TriangleOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\8.TriangleOfNumbers\obj\Debug\netcoreapp3.1\8.TriangleOfNumbers.dll
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\8.TriangleOfNumbers\obj\Debug\netcoreapp3.1\8.TriangleOfNumbers.pdb
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\8.TriangleOfNumbers\obj\Debug\netcoreapp3.1\8.TriangleOfNumbers.genruntimeconfig.cache

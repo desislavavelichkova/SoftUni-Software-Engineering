@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\3.Advance\CarManufacturer\03.CarConstructors\obj\Debug\netcoreapp3.1\03.CarConstructors.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\3.Advance\CarManufacturer\03.CarConstructors\obj\Debug\netcoreapp3.1\03.CarConstructors.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\3.Advance\CarManufacturer\03.CarConstructors\obj\Debug\netcoreapp3.1\03.CarConstructors.AssemblyInfo.cs
+C:\Users\Desi\source\repos\3.Advance\CarManufacturer\03.CarConstructors\obj\Debug\netcoreapp3.1\03.CarConstructors.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\3.Advance\CarManufacturer\03.CarConstructors\bin\Debug\netcoreapp3.1\03.CarConstructors.exe
+C:\Users\Desi\source\repos\3.Advance\CarManufacturer\03.CarConstructors\bin\Debug\netcoreapp3.1\03.CarConstructors.deps.json
+C:\Users\Desi\source\repos\3.Advance\CarManufacturer\03.CarConstructors\bin\Debug\netcoreapp3.1\03.CarConstructors.runtimeconfig.json
+C:\Users\Desi\source\repos\3.Advance\CarManufacturer\03.CarConstructors\bin\Debug\netcoreapp3.1\03.CarConstructors.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\3.Advance\CarManufacturer\03.CarConstructors\bin\Debug\netcoreapp3.1\03.CarConstructors.dll
+C:\Users\Desi\source\repos\3.Advance\CarManufacturer\03.CarConstructors\bin\Debug\netcoreapp3.1\03.CarConstructors.pdb
+C:\Users\Desi\source\repos\3.Advance\CarManufacturer\03.CarConstructors\obj\Debug\netcoreapp3.1\03.CarConstructors.dll
+C:\Users\Desi\source\repos\3.Advance\CarManufacturer\03.CarConstructors\obj\Debug\netcoreapp3.1\03.CarConstructors.pdb
+C:\Users\Desi\source\repos\3.Advance\CarManufacturer\03.CarConstructors\obj\Debug\netcoreapp3.1\03.CarConstructors.genruntimeconfig.cache

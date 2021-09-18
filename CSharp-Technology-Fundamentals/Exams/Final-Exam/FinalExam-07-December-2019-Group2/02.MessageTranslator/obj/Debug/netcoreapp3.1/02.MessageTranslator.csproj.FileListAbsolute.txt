@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\FinalExam-07December2019Group2\02.MessageTranslator\bin\Debug\netcoreapp3.1\02.MessageTranslator.exe
+C:\Users\Desi\source\repos\FinalExam-07December2019Group2\02.MessageTranslator\bin\Debug\netcoreapp3.1\02.MessageTranslator.deps.json
+C:\Users\Desi\source\repos\FinalExam-07December2019Group2\02.MessageTranslator\bin\Debug\netcoreapp3.1\02.MessageTranslator.runtimeconfig.json
+C:\Users\Desi\source\repos\FinalExam-07December2019Group2\02.MessageTranslator\bin\Debug\netcoreapp3.1\02.MessageTranslator.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\FinalExam-07December2019Group2\02.MessageTranslator\bin\Debug\netcoreapp3.1\02.MessageTranslator.dll
+C:\Users\Desi\source\repos\FinalExam-07December2019Group2\02.MessageTranslator\bin\Debug\netcoreapp3.1\02.MessageTranslator.pdb
+C:\Users\Desi\source\repos\FinalExam-07December2019Group2\02.MessageTranslator\obj\Debug\netcoreapp3.1\02.MessageTranslator.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\FinalExam-07December2019Group2\02.MessageTranslator\obj\Debug\netcoreapp3.1\02.MessageTranslator.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\FinalExam-07December2019Group2\02.MessageTranslator\obj\Debug\netcoreapp3.1\02.MessageTranslator.AssemblyInfo.cs
+C:\Users\Desi\source\repos\FinalExam-07December2019Group2\02.MessageTranslator\obj\Debug\netcoreapp3.1\02.MessageTranslator.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\FinalExam-07December2019Group2\02.MessageTranslator\obj\Debug\netcoreapp3.1\02.MessageTranslator.dll
+C:\Users\Desi\source\repos\FinalExam-07December2019Group2\02.MessageTranslator\obj\Debug\netcoreapp3.1\02.MessageTranslator.pdb
+C:\Users\Desi\source\repos\FinalExam-07December2019Group2\02.MessageTranslator\obj\Debug\netcoreapp3.1\02.MessageTranslator.genruntimeconfig.cache

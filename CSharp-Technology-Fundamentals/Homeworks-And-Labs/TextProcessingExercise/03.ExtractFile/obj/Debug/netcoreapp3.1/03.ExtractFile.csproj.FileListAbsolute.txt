@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\TextProcessing-Exercise\03.ExtractFile\bin\Debug\netcoreapp3.1\03.ExtractFile.exe
+C:\Users\Desi\source\repos\TextProcessing-Exercise\03.ExtractFile\bin\Debug\netcoreapp3.1\03.ExtractFile.deps.json
+C:\Users\Desi\source\repos\TextProcessing-Exercise\03.ExtractFile\bin\Debug\netcoreapp3.1\03.ExtractFile.runtimeconfig.json
+C:\Users\Desi\source\repos\TextProcessing-Exercise\03.ExtractFile\bin\Debug\netcoreapp3.1\03.ExtractFile.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\TextProcessing-Exercise\03.ExtractFile\bin\Debug\netcoreapp3.1\03.ExtractFile.dll
+C:\Users\Desi\source\repos\TextProcessing-Exercise\03.ExtractFile\bin\Debug\netcoreapp3.1\03.ExtractFile.pdb
+C:\Users\Desi\source\repos\TextProcessing-Exercise\03.ExtractFile\obj\Debug\netcoreapp3.1\03.ExtractFile.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\TextProcessing-Exercise\03.ExtractFile\obj\Debug\netcoreapp3.1\03.ExtractFile.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\TextProcessing-Exercise\03.ExtractFile\obj\Debug\netcoreapp3.1\03.ExtractFile.AssemblyInfo.cs
+C:\Users\Desi\source\repos\TextProcessing-Exercise\03.ExtractFile\obj\Debug\netcoreapp3.1\03.ExtractFile.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\TextProcessing-Exercise\03.ExtractFile\obj\Debug\netcoreapp3.1\03.ExtractFile.dll
+C:\Users\Desi\source\repos\TextProcessing-Exercise\03.ExtractFile\obj\Debug\netcoreapp3.1\03.ExtractFile.pdb
+C:\Users\Desi\source\repos\TextProcessing-Exercise\03.ExtractFile\obj\Debug\netcoreapp3.1\03.ExtractFile.genruntimeconfig.cache

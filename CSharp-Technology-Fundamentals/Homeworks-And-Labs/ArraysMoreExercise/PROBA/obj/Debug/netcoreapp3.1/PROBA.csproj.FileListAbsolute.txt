@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\Arrays-MoreExercise\PROBA\bin\Debug\netcoreapp3.1\PROBA.exe
+C:\Users\Desi\source\repos\Arrays-MoreExercise\PROBA\bin\Debug\netcoreapp3.1\PROBA.deps.json
+C:\Users\Desi\source\repos\Arrays-MoreExercise\PROBA\bin\Debug\netcoreapp3.1\PROBA.runtimeconfig.json
+C:\Users\Desi\source\repos\Arrays-MoreExercise\PROBA\bin\Debug\netcoreapp3.1\PROBA.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\Arrays-MoreExercise\PROBA\bin\Debug\netcoreapp3.1\PROBA.dll
+C:\Users\Desi\source\repos\Arrays-MoreExercise\PROBA\bin\Debug\netcoreapp3.1\PROBA.pdb
+C:\Users\Desi\source\repos\Arrays-MoreExercise\PROBA\obj\Debug\netcoreapp3.1\PROBA.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\Arrays-MoreExercise\PROBA\obj\Debug\netcoreapp3.1\PROBA.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\Arrays-MoreExercise\PROBA\obj\Debug\netcoreapp3.1\PROBA.AssemblyInfo.cs
+C:\Users\Desi\source\repos\Arrays-MoreExercise\PROBA\obj\Debug\netcoreapp3.1\PROBA.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\Arrays-MoreExercise\PROBA\obj\Debug\netcoreapp3.1\PROBA.dll
+C:\Users\Desi\source\repos\Arrays-MoreExercise\PROBA\obj\Debug\netcoreapp3.1\PROBA.pdb
+C:\Users\Desi\source\repos\Arrays-MoreExercise\PROBA\obj\Debug\netcoreapp3.1\PROBA.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\Arrays-Lab\2.PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\2.PrintNumbersInReverseOrder.exe
+C:\Users\Desi\source\repos\Arrays-Lab\2.PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\2.PrintNumbersInReverseOrder.deps.json
+C:\Users\Desi\source\repos\Arrays-Lab\2.PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\2.PrintNumbersInReverseOrder.runtimeconfig.json
+C:\Users\Desi\source\repos\Arrays-Lab\2.PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\2.PrintNumbersInReverseOrder.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\Arrays-Lab\2.PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\2.PrintNumbersInReverseOrder.dll
+C:\Users\Desi\source\repos\Arrays-Lab\2.PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\2.PrintNumbersInReverseOrder.pdb
+C:\Users\Desi\source\repos\Arrays-Lab\2.PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\2.PrintNumbersInReverseOrder.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\Arrays-Lab\2.PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\2.PrintNumbersInReverseOrder.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\Arrays-Lab\2.PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\2.PrintNumbersInReverseOrder.AssemblyInfo.cs
+C:\Users\Desi\source\repos\Arrays-Lab\2.PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\2.PrintNumbersInReverseOrder.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\Arrays-Lab\2.PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\2.PrintNumbersInReverseOrder.dll
+C:\Users\Desi\source\repos\Arrays-Lab\2.PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\2.PrintNumbersInReverseOrder.pdb
+C:\Users\Desi\source\repos\Arrays-Lab\2.PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\2.PrintNumbersInReverseOrder.genruntimeconfig.cache

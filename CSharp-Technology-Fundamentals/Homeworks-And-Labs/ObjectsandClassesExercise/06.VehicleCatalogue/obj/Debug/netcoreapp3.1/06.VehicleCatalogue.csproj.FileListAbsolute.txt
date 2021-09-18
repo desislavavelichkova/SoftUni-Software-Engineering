@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\ObjectsandClasses-Exercise\06.VehicleCatalogue\bin\Debug\netcoreapp3.1\06.VehicleCatalogue.exe
+C:\Users\Desi\source\repos\ObjectsandClasses-Exercise\06.VehicleCatalogue\bin\Debug\netcoreapp3.1\06.VehicleCatalogue.deps.json
+C:\Users\Desi\source\repos\ObjectsandClasses-Exercise\06.VehicleCatalogue\bin\Debug\netcoreapp3.1\06.VehicleCatalogue.runtimeconfig.json
+C:\Users\Desi\source\repos\ObjectsandClasses-Exercise\06.VehicleCatalogue\bin\Debug\netcoreapp3.1\06.VehicleCatalogue.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\ObjectsandClasses-Exercise\06.VehicleCatalogue\bin\Debug\netcoreapp3.1\06.VehicleCatalogue.dll
+C:\Users\Desi\source\repos\ObjectsandClasses-Exercise\06.VehicleCatalogue\bin\Debug\netcoreapp3.1\06.VehicleCatalogue.pdb
+C:\Users\Desi\source\repos\ObjectsandClasses-Exercise\06.VehicleCatalogue\obj\Debug\netcoreapp3.1\06.VehicleCatalogue.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\ObjectsandClasses-Exercise\06.VehicleCatalogue\obj\Debug\netcoreapp3.1\06.VehicleCatalogue.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\ObjectsandClasses-Exercise\06.VehicleCatalogue\obj\Debug\netcoreapp3.1\06.VehicleCatalogue.AssemblyInfo.cs
+C:\Users\Desi\source\repos\ObjectsandClasses-Exercise\06.VehicleCatalogue\obj\Debug\netcoreapp3.1\06.VehicleCatalogue.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\ObjectsandClasses-Exercise\06.VehicleCatalogue\obj\Debug\netcoreapp3.1\06.VehicleCatalogue.dll
+C:\Users\Desi\source\repos\ObjectsandClasses-Exercise\06.VehicleCatalogue\obj\Debug\netcoreapp3.1\06.VehicleCatalogue.pdb
+C:\Users\Desi\source\repos\ObjectsandClasses-Exercise\06.VehicleCatalogue\obj\Debug\netcoreapp3.1\06.VehicleCatalogue.genruntimeconfig.cache

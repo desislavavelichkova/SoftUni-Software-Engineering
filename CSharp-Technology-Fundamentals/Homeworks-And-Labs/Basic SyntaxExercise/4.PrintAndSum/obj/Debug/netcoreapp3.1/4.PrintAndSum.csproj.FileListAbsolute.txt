@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\4.PrintAndSum\bin\Debug\netcoreapp3.1\4.PrintAndSum.exe
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\4.PrintAndSum\bin\Debug\netcoreapp3.1\4.PrintAndSum.deps.json
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\4.PrintAndSum\bin\Debug\netcoreapp3.1\4.PrintAndSum.runtimeconfig.json
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\4.PrintAndSum\bin\Debug\netcoreapp3.1\4.PrintAndSum.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\4.PrintAndSum\bin\Debug\netcoreapp3.1\4.PrintAndSum.dll
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\4.PrintAndSum\bin\Debug\netcoreapp3.1\4.PrintAndSum.pdb
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\4.PrintAndSum\obj\Debug\netcoreapp3.1\4.PrintAndSum.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\4.PrintAndSum\obj\Debug\netcoreapp3.1\4.PrintAndSum.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\4.PrintAndSum\obj\Debug\netcoreapp3.1\4.PrintAndSum.AssemblyInfo.cs
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\4.PrintAndSum\obj\Debug\netcoreapp3.1\4.PrintAndSum.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\4.PrintAndSum\obj\Debug\netcoreapp3.1\4.PrintAndSum.dll
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\4.PrintAndSum\obj\Debug\netcoreapp3.1\4.PrintAndSum.pdb
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\4.PrintAndSum\obj\Debug\netcoreapp3.1\4.PrintAndSum.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\Basic-Syntax-More-Exercise\2.EnglishNameОfТheLastDigit\bin\Debug\netcoreapp3.1\2.EnglishNameОfТheLastDigit.exe
+C:\Users\Desi\source\repos\Basic-Syntax-More-Exercise\2.EnglishNameОfТheLastDigit\bin\Debug\netcoreapp3.1\2.EnglishNameОfТheLastDigit.deps.json
+C:\Users\Desi\source\repos\Basic-Syntax-More-Exercise\2.EnglishNameОfТheLastDigit\bin\Debug\netcoreapp3.1\2.EnglishNameОfТheLastDigit.runtimeconfig.json
+C:\Users\Desi\source\repos\Basic-Syntax-More-Exercise\2.EnglishNameОfТheLastDigit\bin\Debug\netcoreapp3.1\2.EnglishNameОfТheLastDigit.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\Basic-Syntax-More-Exercise\2.EnglishNameОfТheLastDigit\bin\Debug\netcoreapp3.1\2.EnglishNameОfТheLastDigit.dll
+C:\Users\Desi\source\repos\Basic-Syntax-More-Exercise\2.EnglishNameОfТheLastDigit\bin\Debug\netcoreapp3.1\2.EnglishNameОfТheLastDigit.pdb
+C:\Users\Desi\source\repos\Basic-Syntax-More-Exercise\2.EnglishNameОfТheLastDigit\obj\Debug\netcoreapp3.1\2.EnglishNameОfТheLastDigit.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\Basic-Syntax-More-Exercise\2.EnglishNameОfТheLastDigit\obj\Debug\netcoreapp3.1\2.EnglishNameОfТheLastDigit.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\Basic-Syntax-More-Exercise\2.EnglishNameОfТheLastDigit\obj\Debug\netcoreapp3.1\2.EnglishNameОfТheLastDigit.AssemblyInfo.cs
+C:\Users\Desi\source\repos\Basic-Syntax-More-Exercise\2.EnglishNameОfТheLastDigit\obj\Debug\netcoreapp3.1\2.EnglishNameОfТheLastDigit.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\Basic-Syntax-More-Exercise\2.EnglishNameОfТheLastDigit\obj\Debug\netcoreapp3.1\2.EnglishNameОfТheLastDigit.dll
+C:\Users\Desi\source\repos\Basic-Syntax-More-Exercise\2.EnglishNameОfТheLastDigit\obj\Debug\netcoreapp3.1\2.EnglishNameОfТheLastDigit.pdb
+C:\Users\Desi\source\repos\Basic-Syntax-More-Exercise\2.EnglishNameОfТheLastDigit\obj\Debug\netcoreapp3.1\2.EnglishNameОfТheLastDigit.genruntimeconfig.cache

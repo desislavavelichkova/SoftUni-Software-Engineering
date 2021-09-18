@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\7.VendingMachine\bin\Debug\netcoreapp3.1\7.VendingMachine.exe
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\7.VendingMachine\bin\Debug\netcoreapp3.1\7.VendingMachine.deps.json
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\7.VendingMachine\bin\Debug\netcoreapp3.1\7.VendingMachine.runtimeconfig.json
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\7.VendingMachine\bin\Debug\netcoreapp3.1\7.VendingMachine.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\7.VendingMachine\bin\Debug\netcoreapp3.1\7.VendingMachine.dll
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\7.VendingMachine\bin\Debug\netcoreapp3.1\7.VendingMachine.pdb
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\7.VendingMachine\obj\Debug\netcoreapp3.1\7.VendingMachine.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\7.VendingMachine\obj\Debug\netcoreapp3.1\7.VendingMachine.AssemblyInfo.cs
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\7.VendingMachine\obj\Debug\netcoreapp3.1\7.VendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\7.VendingMachine\obj\Debug\netcoreapp3.1\7.VendingMachine.dll
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\7.VendingMachine\obj\Debug\netcoreapp3.1\7.VendingMachine.pdb
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\7.VendingMachine\obj\Debug\netcoreapp3.1\7.VendingMachine.genruntimeconfig.cache
+C:\Users\Desi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\7.VendingMachine\obj\Debug\netcoreapp3.1\7.VendingMachine.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\DataTypesAndVariables-Lab\4.CenturiesТoMinutes\bin\Debug\netcoreapp3.1\4.CenturiesТoMinutes.exe
+C:\Users\Desi\source\repos\DataTypesAndVariables-Lab\4.CenturiesТoMinutes\bin\Debug\netcoreapp3.1\4.CenturiesТoMinutes.deps.json
+C:\Users\Desi\source\repos\DataTypesAndVariables-Lab\4.CenturiesТoMinutes\bin\Debug\netcoreapp3.1\4.CenturiesТoMinutes.runtimeconfig.json
+C:\Users\Desi\source\repos\DataTypesAndVariables-Lab\4.CenturiesТoMinutes\bin\Debug\netcoreapp3.1\4.CenturiesТoMinutes.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\DataTypesAndVariables-Lab\4.CenturiesТoMinutes\bin\Debug\netcoreapp3.1\4.CenturiesТoMinutes.dll
+C:\Users\Desi\source\repos\DataTypesAndVariables-Lab\4.CenturiesТoMinutes\bin\Debug\netcoreapp3.1\4.CenturiesТoMinutes.pdb
+C:\Users\Desi\source\repos\DataTypesAndVariables-Lab\4.CenturiesТoMinutes\obj\Debug\netcoreapp3.1\4.CenturiesТoMinutes.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\DataTypesAndVariables-Lab\4.CenturiesТoMinutes\obj\Debug\netcoreapp3.1\4.CenturiesТoMinutes.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\DataTypesAndVariables-Lab\4.CenturiesТoMinutes\obj\Debug\netcoreapp3.1\4.CenturiesТoMinutes.AssemblyInfo.cs
+C:\Users\Desi\source\repos\DataTypesAndVariables-Lab\4.CenturiesТoMinutes\obj\Debug\netcoreapp3.1\4.CenturiesТoMinutes.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\DataTypesAndVariables-Lab\4.CenturiesТoMinutes\obj\Debug\netcoreapp3.1\4.CenturiesТoMinutes.dll
+C:\Users\Desi\source\repos\DataTypesAndVariables-Lab\4.CenturiesТoMinutes\obj\Debug\netcoreapp3.1\4.CenturiesТoMinutes.pdb
+C:\Users\Desi\source\repos\DataTypesAndVariables-Lab\4.CenturiesТoMinutes\obj\Debug\netcoreapp3.1\4.CenturiesТoMinutes.genruntimeconfig.cache

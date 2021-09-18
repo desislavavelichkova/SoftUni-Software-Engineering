@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\3.Advance\Stacks-And-Queues-Exercise\12.CupsАndBottles\bin\Debug\netcoreapp3.1\12.CupsАndBottles.exe
+C:\Users\Desi\source\repos\3.Advance\Stacks-And-Queues-Exercise\12.CupsАndBottles\bin\Debug\netcoreapp3.1\12.CupsАndBottles.deps.json
+C:\Users\Desi\source\repos\3.Advance\Stacks-And-Queues-Exercise\12.CupsАndBottles\bin\Debug\netcoreapp3.1\12.CupsАndBottles.runtimeconfig.json
+C:\Users\Desi\source\repos\3.Advance\Stacks-And-Queues-Exercise\12.CupsАndBottles\bin\Debug\netcoreapp3.1\12.CupsАndBottles.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\3.Advance\Stacks-And-Queues-Exercise\12.CupsАndBottles\bin\Debug\netcoreapp3.1\12.CupsАndBottles.dll
+C:\Users\Desi\source\repos\3.Advance\Stacks-And-Queues-Exercise\12.CupsАndBottles\bin\Debug\netcoreapp3.1\12.CupsАndBottles.pdb
+C:\Users\Desi\source\repos\3.Advance\Stacks-And-Queues-Exercise\12.CupsАndBottles\obj\Debug\netcoreapp3.1\12.CupsАndBottles.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\3.Advance\Stacks-And-Queues-Exercise\12.CupsАndBottles\obj\Debug\netcoreapp3.1\12.CupsАndBottles.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\3.Advance\Stacks-And-Queues-Exercise\12.CupsАndBottles\obj\Debug\netcoreapp3.1\12.CupsАndBottles.AssemblyInfo.cs
+C:\Users\Desi\source\repos\3.Advance\Stacks-And-Queues-Exercise\12.CupsАndBottles\obj\Debug\netcoreapp3.1\12.CupsАndBottles.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\3.Advance\Stacks-And-Queues-Exercise\12.CupsАndBottles\obj\Debug\netcoreapp3.1\12.CupsАndBottles.dll
+C:\Users\Desi\source\repos\3.Advance\Stacks-And-Queues-Exercise\12.CupsАndBottles\obj\Debug\netcoreapp3.1\12.CupsАndBottles.pdb
+C:\Users\Desi\source\repos\3.Advance\Stacks-And-Queues-Exercise\12.CupsАndBottles\obj\Debug\netcoreapp3.1\12.CupsАndBottles.genruntimeconfig.cache

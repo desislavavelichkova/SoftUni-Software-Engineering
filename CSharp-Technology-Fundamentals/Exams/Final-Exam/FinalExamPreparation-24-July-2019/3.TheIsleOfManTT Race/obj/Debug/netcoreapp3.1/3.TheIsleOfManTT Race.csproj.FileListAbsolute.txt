@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\FinalExamPreparation-24July2019\3.TheIsleOfManTT Race\bin\Debug\netcoreapp3.1\3.TheIsleOfManTT Race.exe
+C:\Users\Desi\source\repos\FinalExamPreparation-24July2019\3.TheIsleOfManTT Race\bin\Debug\netcoreapp3.1\3.TheIsleOfManTT Race.deps.json
+C:\Users\Desi\source\repos\FinalExamPreparation-24July2019\3.TheIsleOfManTT Race\bin\Debug\netcoreapp3.1\3.TheIsleOfManTT Race.runtimeconfig.json
+C:\Users\Desi\source\repos\FinalExamPreparation-24July2019\3.TheIsleOfManTT Race\bin\Debug\netcoreapp3.1\3.TheIsleOfManTT Race.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\FinalExamPreparation-24July2019\3.TheIsleOfManTT Race\bin\Debug\netcoreapp3.1\3.TheIsleOfManTT Race.dll
+C:\Users\Desi\source\repos\FinalExamPreparation-24July2019\3.TheIsleOfManTT Race\bin\Debug\netcoreapp3.1\3.TheIsleOfManTT Race.pdb
+C:\Users\Desi\source\repos\FinalExamPreparation-24July2019\3.TheIsleOfManTT Race\obj\Debug\netcoreapp3.1\3.TheIsleOfManTT Race.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\FinalExamPreparation-24July2019\3.TheIsleOfManTT Race\obj\Debug\netcoreapp3.1\3.TheIsleOfManTT Race.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\FinalExamPreparation-24July2019\3.TheIsleOfManTT Race\obj\Debug\netcoreapp3.1\3.TheIsleOfManTT Race.AssemblyInfo.cs
+C:\Users\Desi\source\repos\FinalExamPreparation-24July2019\3.TheIsleOfManTT Race\obj\Debug\netcoreapp3.1\3.TheIsleOfManTT Race.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\FinalExamPreparation-24July2019\3.TheIsleOfManTT Race\obj\Debug\netcoreapp3.1\3.TheIsleOfManTT Race.dll
+C:\Users\Desi\source\repos\FinalExamPreparation-24July2019\3.TheIsleOfManTT Race\obj\Debug\netcoreapp3.1\3.TheIsleOfManTT Race.pdb
+C:\Users\Desi\source\repos\FinalExamPreparation-24July2019\3.TheIsleOfManTT Race\obj\Debug\netcoreapp3.1\3.TheIsleOfManTT Race.genruntimeconfig.cache

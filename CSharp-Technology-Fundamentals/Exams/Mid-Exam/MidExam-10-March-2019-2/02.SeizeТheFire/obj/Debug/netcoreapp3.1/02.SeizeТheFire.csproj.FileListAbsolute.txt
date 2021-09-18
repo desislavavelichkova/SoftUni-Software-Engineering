@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\MidExam-10March2019Group2\02.SeizeТheFire\bin\Debug\netcoreapp3.1\02.SeizeТheFire.exe
+C:\Users\Desi\source\repos\MidExam-10March2019Group2\02.SeizeТheFire\bin\Debug\netcoreapp3.1\02.SeizeТheFire.deps.json
+C:\Users\Desi\source\repos\MidExam-10March2019Group2\02.SeizeТheFire\bin\Debug\netcoreapp3.1\02.SeizeТheFire.runtimeconfig.json
+C:\Users\Desi\source\repos\MidExam-10March2019Group2\02.SeizeТheFire\bin\Debug\netcoreapp3.1\02.SeizeТheFire.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\MidExam-10March2019Group2\02.SeizeТheFire\bin\Debug\netcoreapp3.1\02.SeizeТheFire.dll
+C:\Users\Desi\source\repos\MidExam-10March2019Group2\02.SeizeТheFire\bin\Debug\netcoreapp3.1\02.SeizeТheFire.pdb
+C:\Users\Desi\source\repos\MidExam-10March2019Group2\02.SeizeТheFire\obj\Debug\netcoreapp3.1\02.SeizeТheFire.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\MidExam-10March2019Group2\02.SeizeТheFire\obj\Debug\netcoreapp3.1\02.SeizeТheFire.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\MidExam-10March2019Group2\02.SeizeТheFire\obj\Debug\netcoreapp3.1\02.SeizeТheFire.AssemblyInfo.cs
+C:\Users\Desi\source\repos\MidExam-10March2019Group2\02.SeizeТheFire\obj\Debug\netcoreapp3.1\02.SeizeТheFire.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\MidExam-10March2019Group2\02.SeizeТheFire\obj\Debug\netcoreapp3.1\02.SeizeТheFire.dll
+C:\Users\Desi\source\repos\MidExam-10March2019Group2\02.SeizeТheFire\obj\Debug\netcoreapp3.1\02.SeizeТheFire.pdb
+C:\Users\Desi\source\repos\MidExam-10March2019Group2\02.SeizeТheFire\obj\Debug\netcoreapp3.1\02.SeizeТheFire.genruntimeconfig.cache

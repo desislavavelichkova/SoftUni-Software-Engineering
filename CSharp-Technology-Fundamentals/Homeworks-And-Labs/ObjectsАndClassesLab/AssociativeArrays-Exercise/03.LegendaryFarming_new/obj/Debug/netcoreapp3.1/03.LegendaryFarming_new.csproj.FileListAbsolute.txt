@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\AssociativeArrays-Exercise\03.LegendaryFarming_new\bin\Debug\netcoreapp3.1\03.LegendaryFarming_new.exe
+C:\Users\Desi\source\repos\AssociativeArrays-Exercise\03.LegendaryFarming_new\bin\Debug\netcoreapp3.1\03.LegendaryFarming_new.deps.json
+C:\Users\Desi\source\repos\AssociativeArrays-Exercise\03.LegendaryFarming_new\bin\Debug\netcoreapp3.1\03.LegendaryFarming_new.runtimeconfig.json
+C:\Users\Desi\source\repos\AssociativeArrays-Exercise\03.LegendaryFarming_new\bin\Debug\netcoreapp3.1\03.LegendaryFarming_new.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\AssociativeArrays-Exercise\03.LegendaryFarming_new\bin\Debug\netcoreapp3.1\03.LegendaryFarming_new.dll
+C:\Users\Desi\source\repos\AssociativeArrays-Exercise\03.LegendaryFarming_new\bin\Debug\netcoreapp3.1\03.LegendaryFarming_new.pdb
+C:\Users\Desi\source\repos\AssociativeArrays-Exercise\03.LegendaryFarming_new\obj\Debug\netcoreapp3.1\03.LegendaryFarming_new.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\AssociativeArrays-Exercise\03.LegendaryFarming_new\obj\Debug\netcoreapp3.1\03.LegendaryFarming_new.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\AssociativeArrays-Exercise\03.LegendaryFarming_new\obj\Debug\netcoreapp3.1\03.LegendaryFarming_new.AssemblyInfo.cs
+C:\Users\Desi\source\repos\AssociativeArrays-Exercise\03.LegendaryFarming_new\obj\Debug\netcoreapp3.1\03.LegendaryFarming_new.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\AssociativeArrays-Exercise\03.LegendaryFarming_new\obj\Debug\netcoreapp3.1\03.LegendaryFarming_new.dll
+C:\Users\Desi\source\repos\AssociativeArrays-Exercise\03.LegendaryFarming_new\obj\Debug\netcoreapp3.1\03.LegendaryFarming_new.pdb
+C:\Users\Desi\source\repos\AssociativeArrays-Exercise\03.LegendaryFarming_new\obj\Debug\netcoreapp3.1\03.LegendaryFarming_new.genruntimeconfig.cache

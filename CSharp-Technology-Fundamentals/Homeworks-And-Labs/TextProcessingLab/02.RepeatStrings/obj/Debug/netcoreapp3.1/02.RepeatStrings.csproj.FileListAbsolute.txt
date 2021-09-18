@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\TextProcessing-Lab\02.RepeatStrings\bin\Debug\netcoreapp3.1\02.RepeatStrings.exe
+C:\Users\Desi\source\repos\TextProcessing-Lab\02.RepeatStrings\bin\Debug\netcoreapp3.1\02.RepeatStrings.deps.json
+C:\Users\Desi\source\repos\TextProcessing-Lab\02.RepeatStrings\bin\Debug\netcoreapp3.1\02.RepeatStrings.runtimeconfig.json
+C:\Users\Desi\source\repos\TextProcessing-Lab\02.RepeatStrings\bin\Debug\netcoreapp3.1\02.RepeatStrings.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\TextProcessing-Lab\02.RepeatStrings\bin\Debug\netcoreapp3.1\02.RepeatStrings.dll
+C:\Users\Desi\source\repos\TextProcessing-Lab\02.RepeatStrings\bin\Debug\netcoreapp3.1\02.RepeatStrings.pdb
+C:\Users\Desi\source\repos\TextProcessing-Lab\02.RepeatStrings\obj\Debug\netcoreapp3.1\02.RepeatStrings.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\TextProcessing-Lab\02.RepeatStrings\obj\Debug\netcoreapp3.1\02.RepeatStrings.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\TextProcessing-Lab\02.RepeatStrings\obj\Debug\netcoreapp3.1\02.RepeatStrings.AssemblyInfo.cs
+C:\Users\Desi\source\repos\TextProcessing-Lab\02.RepeatStrings\obj\Debug\netcoreapp3.1\02.RepeatStrings.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\TextProcessing-Lab\02.RepeatStrings\obj\Debug\netcoreapp3.1\02.RepeatStrings.dll
+C:\Users\Desi\source\repos\TextProcessing-Lab\02.RepeatStrings\obj\Debug\netcoreapp3.1\02.RepeatStrings.pdb
+C:\Users\Desi\source\repos\TextProcessing-Lab\02.RepeatStrings\obj\Debug\netcoreapp3.1\02.RepeatStrings.genruntimeconfig.cache

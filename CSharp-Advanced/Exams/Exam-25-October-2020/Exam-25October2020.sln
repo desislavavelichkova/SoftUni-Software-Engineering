@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Scheduling", "Scheduling\Scheduling.csproj", "{8AA67571-EF50-40F0-8C32-21FF6782DF18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Garden", "Garden\Garden.csproj", "{95038E32-E7B2-4812-AFA7-A92D61895B08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classroom", "Classroom\Classroom.csproj", "{1F781A9D-296F-45F6-B49B-DA284A692842}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AA67571-EF50-40F0-8C32-21FF6782DF18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AA67571-EF50-40F0-8C32-21FF6782DF18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AA67571-EF50-40F0-8C32-21FF6782DF18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AA67571-EF50-40F0-8C32-21FF6782DF18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95038E32-E7B2-4812-AFA7-A92D61895B08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95038E32-E7B2-4812-AFA7-A92D61895B08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95038E32-E7B2-4812-AFA7-A92D61895B08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95038E32-E7B2-4812-AFA7-A92D61895B08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F781A9D-296F-45F6-B49B-DA284A692842}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F781A9D-296F-45F6-B49B-DA284A692842}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F781A9D-296F-45F6-B49B-DA284A692842}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F781A9D-296F-45F6-B49B-DA284A692842}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1DF1369-804F-4C58-B7BC-E580F441AEAC}
+	EndGlobalSection
+EndGlobal

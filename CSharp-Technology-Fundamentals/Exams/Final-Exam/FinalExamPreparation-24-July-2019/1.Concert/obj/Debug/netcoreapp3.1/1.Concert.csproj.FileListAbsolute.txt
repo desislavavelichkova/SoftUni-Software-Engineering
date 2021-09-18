@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\FinalExamPreparation-24July2019\1.Concert\bin\Debug\netcoreapp3.1\1.Concert.exe
+C:\Users\Desi\source\repos\FinalExamPreparation-24July2019\1.Concert\bin\Debug\netcoreapp3.1\1.Concert.deps.json
+C:\Users\Desi\source\repos\FinalExamPreparation-24July2019\1.Concert\bin\Debug\netcoreapp3.1\1.Concert.runtimeconfig.json
+C:\Users\Desi\source\repos\FinalExamPreparation-24July2019\1.Concert\bin\Debug\netcoreapp3.1\1.Concert.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\FinalExamPreparation-24July2019\1.Concert\bin\Debug\netcoreapp3.1\1.Concert.dll
+C:\Users\Desi\source\repos\FinalExamPreparation-24July2019\1.Concert\bin\Debug\netcoreapp3.1\1.Concert.pdb
+C:\Users\Desi\source\repos\FinalExamPreparation-24July2019\1.Concert\obj\Debug\netcoreapp3.1\1.Concert.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\FinalExamPreparation-24July2019\1.Concert\obj\Debug\netcoreapp3.1\1.Concert.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\FinalExamPreparation-24July2019\1.Concert\obj\Debug\netcoreapp3.1\1.Concert.AssemblyInfo.cs
+C:\Users\Desi\source\repos\FinalExamPreparation-24July2019\1.Concert\obj\Debug\netcoreapp3.1\1.Concert.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\FinalExamPreparation-24July2019\1.Concert\obj\Debug\netcoreapp3.1\1.Concert.dll
+C:\Users\Desi\source\repos\FinalExamPreparation-24July2019\1.Concert\obj\Debug\netcoreapp3.1\1.Concert.pdb
+C:\Users\Desi\source\repos\FinalExamPreparation-24July2019\1.Concert\obj\Debug\netcoreapp3.1\1.Concert.genruntimeconfig.cache

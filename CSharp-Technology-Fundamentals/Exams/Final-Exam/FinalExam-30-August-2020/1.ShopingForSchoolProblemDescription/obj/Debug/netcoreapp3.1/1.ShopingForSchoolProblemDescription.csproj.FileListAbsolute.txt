@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\EXAM_30.08.2020\1.ShopingForSchoolProblemDescription\bin\Debug\netcoreapp3.1\1.ShopingForSchoolProblemDescription.exe
+C:\Users\Desi\source\repos\EXAM_30.08.2020\1.ShopingForSchoolProblemDescription\bin\Debug\netcoreapp3.1\1.ShopingForSchoolProblemDescription.deps.json
+C:\Users\Desi\source\repos\EXAM_30.08.2020\1.ShopingForSchoolProblemDescription\bin\Debug\netcoreapp3.1\1.ShopingForSchoolProblemDescription.runtimeconfig.json
+C:\Users\Desi\source\repos\EXAM_30.08.2020\1.ShopingForSchoolProblemDescription\bin\Debug\netcoreapp3.1\1.ShopingForSchoolProblemDescription.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\EXAM_30.08.2020\1.ShopingForSchoolProblemDescription\bin\Debug\netcoreapp3.1\1.ShopingForSchoolProblemDescription.dll
+C:\Users\Desi\source\repos\EXAM_30.08.2020\1.ShopingForSchoolProblemDescription\bin\Debug\netcoreapp3.1\1.ShopingForSchoolProblemDescription.pdb
+C:\Users\Desi\source\repos\EXAM_30.08.2020\1.ShopingForSchoolProblemDescription\obj\Debug\netcoreapp3.1\1.ShopingForSchoolProblemDescription.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\EXAM_30.08.2020\1.ShopingForSchoolProblemDescription\obj\Debug\netcoreapp3.1\1.ShopingForSchoolProblemDescription.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\EXAM_30.08.2020\1.ShopingForSchoolProblemDescription\obj\Debug\netcoreapp3.1\1.ShopingForSchoolProblemDescription.AssemblyInfo.cs
+C:\Users\Desi\source\repos\EXAM_30.08.2020\1.ShopingForSchoolProblemDescription\obj\Debug\netcoreapp3.1\1.ShopingForSchoolProblemDescription.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\EXAM_30.08.2020\1.ShopingForSchoolProblemDescription\obj\Debug\netcoreapp3.1\1.ShopingForSchoolProblemDescription.dll
+C:\Users\Desi\source\repos\EXAM_30.08.2020\1.ShopingForSchoolProblemDescription\obj\Debug\netcoreapp3.1\1.ShopingForSchoolProblemDescription.pdb
+C:\Users\Desi\source\repos\EXAM_30.08.2020\1.ShopingForSchoolProblemDescription\obj\Debug\netcoreapp3.1\1.ShopingForSchoolProblemDescription.genruntimeconfig.cache

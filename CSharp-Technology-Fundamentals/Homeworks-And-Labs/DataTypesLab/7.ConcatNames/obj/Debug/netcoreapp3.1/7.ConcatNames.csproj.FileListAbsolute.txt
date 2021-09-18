@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\DataTypesAndVariables-Lab\7.ConcatNames\bin\Debug\netcoreapp3.1\7.ConcatNames.exe
+C:\Users\Desi\source\repos\DataTypesAndVariables-Lab\7.ConcatNames\bin\Debug\netcoreapp3.1\7.ConcatNames.deps.json
+C:\Users\Desi\source\repos\DataTypesAndVariables-Lab\7.ConcatNames\bin\Debug\netcoreapp3.1\7.ConcatNames.runtimeconfig.json
+C:\Users\Desi\source\repos\DataTypesAndVariables-Lab\7.ConcatNames\bin\Debug\netcoreapp3.1\7.ConcatNames.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\DataTypesAndVariables-Lab\7.ConcatNames\bin\Debug\netcoreapp3.1\7.ConcatNames.dll
+C:\Users\Desi\source\repos\DataTypesAndVariables-Lab\7.ConcatNames\bin\Debug\netcoreapp3.1\7.ConcatNames.pdb
+C:\Users\Desi\source\repos\DataTypesAndVariables-Lab\7.ConcatNames\obj\Debug\netcoreapp3.1\7.ConcatNames.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\DataTypesAndVariables-Lab\7.ConcatNames\obj\Debug\netcoreapp3.1\7.ConcatNames.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\DataTypesAndVariables-Lab\7.ConcatNames\obj\Debug\netcoreapp3.1\7.ConcatNames.AssemblyInfo.cs
+C:\Users\Desi\source\repos\DataTypesAndVariables-Lab\7.ConcatNames\obj\Debug\netcoreapp3.1\7.ConcatNames.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\DataTypesAndVariables-Lab\7.ConcatNames\obj\Debug\netcoreapp3.1\7.ConcatNames.dll
+C:\Users\Desi\source\repos\DataTypesAndVariables-Lab\7.ConcatNames\obj\Debug\netcoreapp3.1\7.ConcatNames.pdb
+C:\Users\Desi\source\repos\DataTypesAndVariables-Lab\7.ConcatNames\obj\Debug\netcoreapp3.1\7.ConcatNames.genruntimeconfig.cache

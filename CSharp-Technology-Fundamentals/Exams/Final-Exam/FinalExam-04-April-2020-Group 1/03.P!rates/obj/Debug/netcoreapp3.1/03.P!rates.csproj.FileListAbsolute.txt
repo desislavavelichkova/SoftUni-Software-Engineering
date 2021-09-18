@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\FinalExam-04April2020Group 1\03.P!rates\bin\Debug\netcoreapp3.1\03.P!rates.exe
+C:\Users\Desi\source\repos\FinalExam-04April2020Group 1\03.P!rates\bin\Debug\netcoreapp3.1\03.P!rates.deps.json
+C:\Users\Desi\source\repos\FinalExam-04April2020Group 1\03.P!rates\bin\Debug\netcoreapp3.1\03.P!rates.runtimeconfig.json
+C:\Users\Desi\source\repos\FinalExam-04April2020Group 1\03.P!rates\bin\Debug\netcoreapp3.1\03.P!rates.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\FinalExam-04April2020Group 1\03.P!rates\bin\Debug\netcoreapp3.1\03.P!rates.dll
+C:\Users\Desi\source\repos\FinalExam-04April2020Group 1\03.P!rates\bin\Debug\netcoreapp3.1\03.P!rates.pdb
+C:\Users\Desi\source\repos\FinalExam-04April2020Group 1\03.P!rates\obj\Debug\netcoreapp3.1\03.P!rates.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\FinalExam-04April2020Group 1\03.P!rates\obj\Debug\netcoreapp3.1\03.P!rates.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\FinalExam-04April2020Group 1\03.P!rates\obj\Debug\netcoreapp3.1\03.P!rates.AssemblyInfo.cs
+C:\Users\Desi\source\repos\FinalExam-04April2020Group 1\03.P!rates\obj\Debug\netcoreapp3.1\03.P!rates.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\FinalExam-04April2020Group 1\03.P!rates\obj\Debug\netcoreapp3.1\03.P!rates.dll
+C:\Users\Desi\source\repos\FinalExam-04April2020Group 1\03.P!rates\obj\Debug\netcoreapp3.1\03.P!rates.pdb
+C:\Users\Desi\source\repos\FinalExam-04April2020Group 1\03.P!rates\obj\Debug\netcoreapp3.1\03.P!rates.genruntimeconfig.cache

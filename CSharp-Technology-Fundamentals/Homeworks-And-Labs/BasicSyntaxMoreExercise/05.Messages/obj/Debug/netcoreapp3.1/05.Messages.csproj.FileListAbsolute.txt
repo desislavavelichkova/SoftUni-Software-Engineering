@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\Basic-Syntax-More-Exercise\05.Messages\bin\Debug\netcoreapp3.1\05.Messages.exe
+C:\Users\Desi\source\repos\Basic-Syntax-More-Exercise\05.Messages\bin\Debug\netcoreapp3.1\05.Messages.deps.json
+C:\Users\Desi\source\repos\Basic-Syntax-More-Exercise\05.Messages\bin\Debug\netcoreapp3.1\05.Messages.runtimeconfig.json
+C:\Users\Desi\source\repos\Basic-Syntax-More-Exercise\05.Messages\bin\Debug\netcoreapp3.1\05.Messages.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\Basic-Syntax-More-Exercise\05.Messages\bin\Debug\netcoreapp3.1\05.Messages.dll
+C:\Users\Desi\source\repos\Basic-Syntax-More-Exercise\05.Messages\bin\Debug\netcoreapp3.1\05.Messages.pdb
+C:\Users\Desi\source\repos\Basic-Syntax-More-Exercise\05.Messages\obj\Debug\netcoreapp3.1\05.Messages.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\Basic-Syntax-More-Exercise\05.Messages\obj\Debug\netcoreapp3.1\05.Messages.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\Basic-Syntax-More-Exercise\05.Messages\obj\Debug\netcoreapp3.1\05.Messages.AssemblyInfo.cs
+C:\Users\Desi\source\repos\Basic-Syntax-More-Exercise\05.Messages\obj\Debug\netcoreapp3.1\05.Messages.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\Basic-Syntax-More-Exercise\05.Messages\obj\Debug\netcoreapp3.1\05.Messages.dll
+C:\Users\Desi\source\repos\Basic-Syntax-More-Exercise\05.Messages\obj\Debug\netcoreapp3.1\05.Messages.pdb
+C:\Users\Desi\source\repos\Basic-Syntax-More-Exercise\05.Messages\obj\Debug\netcoreapp3.1\05.Messages.genruntimeconfig.cache

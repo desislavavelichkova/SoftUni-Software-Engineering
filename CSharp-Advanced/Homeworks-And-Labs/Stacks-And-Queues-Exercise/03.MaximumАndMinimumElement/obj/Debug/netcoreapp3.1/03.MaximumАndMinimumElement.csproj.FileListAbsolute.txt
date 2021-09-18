@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\StacksAndQueues-Exercise\03.MaximumАndMinimumElement\bin\Debug\netcoreapp3.1\03.MaximumАndMinimumElement.exe
+C:\Users\Desi\source\repos\StacksAndQueues-Exercise\03.MaximumАndMinimumElement\bin\Debug\netcoreapp3.1\03.MaximumАndMinimumElement.deps.json
+C:\Users\Desi\source\repos\StacksAndQueues-Exercise\03.MaximumАndMinimumElement\bin\Debug\netcoreapp3.1\03.MaximumАndMinimumElement.runtimeconfig.json
+C:\Users\Desi\source\repos\StacksAndQueues-Exercise\03.MaximumАndMinimumElement\bin\Debug\netcoreapp3.1\03.MaximumАndMinimumElement.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\StacksAndQueues-Exercise\03.MaximumАndMinimumElement\bin\Debug\netcoreapp3.1\03.MaximumАndMinimumElement.dll
+C:\Users\Desi\source\repos\StacksAndQueues-Exercise\03.MaximumАndMinimumElement\bin\Debug\netcoreapp3.1\03.MaximumАndMinimumElement.pdb
+C:\Users\Desi\source\repos\StacksAndQueues-Exercise\03.MaximumАndMinimumElement\obj\Debug\netcoreapp3.1\03.MaximumАndMinimumElement.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\StacksAndQueues-Exercise\03.MaximumАndMinimumElement\obj\Debug\netcoreapp3.1\03.MaximumАndMinimumElement.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\StacksAndQueues-Exercise\03.MaximumАndMinimumElement\obj\Debug\netcoreapp3.1\03.MaximumАndMinimumElement.AssemblyInfo.cs
+C:\Users\Desi\source\repos\StacksAndQueues-Exercise\03.MaximumАndMinimumElement\obj\Debug\netcoreapp3.1\03.MaximumАndMinimumElement.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\StacksAndQueues-Exercise\03.MaximumАndMinimumElement\obj\Debug\netcoreapp3.1\03.MaximumАndMinimumElement.dll
+C:\Users\Desi\source\repos\StacksAndQueues-Exercise\03.MaximumАndMinimumElement\obj\Debug\netcoreapp3.1\03.MaximumАndMinimumElement.pdb
+C:\Users\Desi\source\repos\StacksAndQueues-Exercise\03.MaximumАndMinimumElement\obj\Debug\netcoreapp3.1\03.MaximumАndMinimumElement.genruntimeconfig.cache

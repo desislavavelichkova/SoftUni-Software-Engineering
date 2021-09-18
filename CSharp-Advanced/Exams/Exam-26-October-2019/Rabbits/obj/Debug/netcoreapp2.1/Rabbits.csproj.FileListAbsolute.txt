@@ -1,0 +1,12 @@
+C:\Users\Desi\source\repos\3.Advance\EXAM-RETAKE\Exam-26October2019\Rabbits\bin\Debug\netcoreapp2.1\Rabbits.deps.json
+C:\Users\Desi\source\repos\3.Advance\EXAM-RETAKE\Exam-26October2019\Rabbits\bin\Debug\netcoreapp2.1\Rabbits.runtimeconfig.json
+C:\Users\Desi\source\repos\3.Advance\EXAM-RETAKE\Exam-26October2019\Rabbits\bin\Debug\netcoreapp2.1\Rabbits.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\3.Advance\EXAM-RETAKE\Exam-26October2019\Rabbits\bin\Debug\netcoreapp2.1\Rabbits.dll
+C:\Users\Desi\source\repos\3.Advance\EXAM-RETAKE\Exam-26October2019\Rabbits\bin\Debug\netcoreapp2.1\Rabbits.pdb
+C:\Users\Desi\source\repos\3.Advance\EXAM-RETAKE\Exam-26October2019\Rabbits\obj\Debug\netcoreapp2.1\Rabbits.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\3.Advance\EXAM-RETAKE\Exam-26October2019\Rabbits\obj\Debug\netcoreapp2.1\Rabbits.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\3.Advance\EXAM-RETAKE\Exam-26October2019\Rabbits\obj\Debug\netcoreapp2.1\Rabbits.AssemblyInfo.cs
+C:\Users\Desi\source\repos\3.Advance\EXAM-RETAKE\Exam-26October2019\Rabbits\obj\Debug\netcoreapp2.1\Rabbits.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\3.Advance\EXAM-RETAKE\Exam-26October2019\Rabbits\obj\Debug\netcoreapp2.1\Rabbits.dll
+C:\Users\Desi\source\repos\3.Advance\EXAM-RETAKE\Exam-26October2019\Rabbits\obj\Debug\netcoreapp2.1\Rabbits.pdb
+C:\Users\Desi\source\repos\3.Advance\EXAM-RETAKE\Exam-26October2019\Rabbits\obj\Debug\netcoreapp2.1\Rabbits.genruntimeconfig.cache

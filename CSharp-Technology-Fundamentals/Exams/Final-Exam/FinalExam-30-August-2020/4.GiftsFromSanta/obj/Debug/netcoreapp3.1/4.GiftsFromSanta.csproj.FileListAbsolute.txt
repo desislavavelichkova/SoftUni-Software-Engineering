@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\EXAM_30.08.2020\4.GiftsFromSanta\bin\Debug\netcoreapp3.1\4.GiftsFromSanta.exe
+C:\Users\Desi\source\repos\EXAM_30.08.2020\4.GiftsFromSanta\bin\Debug\netcoreapp3.1\4.GiftsFromSanta.deps.json
+C:\Users\Desi\source\repos\EXAM_30.08.2020\4.GiftsFromSanta\bin\Debug\netcoreapp3.1\4.GiftsFromSanta.runtimeconfig.json
+C:\Users\Desi\source\repos\EXAM_30.08.2020\4.GiftsFromSanta\bin\Debug\netcoreapp3.1\4.GiftsFromSanta.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\EXAM_30.08.2020\4.GiftsFromSanta\bin\Debug\netcoreapp3.1\4.GiftsFromSanta.dll
+C:\Users\Desi\source\repos\EXAM_30.08.2020\4.GiftsFromSanta\bin\Debug\netcoreapp3.1\4.GiftsFromSanta.pdb
+C:\Users\Desi\source\repos\EXAM_30.08.2020\4.GiftsFromSanta\obj\Debug\netcoreapp3.1\4.GiftsFromSanta.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\EXAM_30.08.2020\4.GiftsFromSanta\obj\Debug\netcoreapp3.1\4.GiftsFromSanta.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\EXAM_30.08.2020\4.GiftsFromSanta\obj\Debug\netcoreapp3.1\4.GiftsFromSanta.AssemblyInfo.cs
+C:\Users\Desi\source\repos\EXAM_30.08.2020\4.GiftsFromSanta\obj\Debug\netcoreapp3.1\4.GiftsFromSanta.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\EXAM_30.08.2020\4.GiftsFromSanta\obj\Debug\netcoreapp3.1\4.GiftsFromSanta.dll
+C:\Users\Desi\source\repos\EXAM_30.08.2020\4.GiftsFromSanta\obj\Debug\netcoreapp3.1\4.GiftsFromSanta.pdb
+C:\Users\Desi\source\repos\EXAM_30.08.2020\4.GiftsFromSanta\obj\Debug\netcoreapp3.1\4.GiftsFromSanta.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\Methods-Lab\10.MultiplyEvensByOdds\obj\Debug\netcoreapp3.1\10.MultiplyEvensByOdds.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\Methods-Lab\10.MultiplyEvensByOdds\obj\Debug\netcoreapp3.1\10.MultiplyEvensByOdds.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\Methods-Lab\10.MultiplyEvensByOdds\obj\Debug\netcoreapp3.1\10.MultiplyEvensByOdds.AssemblyInfo.cs
+C:\Users\Desi\source\repos\Methods-Lab\10.MultiplyEvensByOdds\obj\Debug\netcoreapp3.1\10.MultiplyEvensByOdds.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\Methods-Lab\10.MultiplyEvensByOdds\bin\Debug\netcoreapp3.1\10.MultiplyEvensByOdds.exe
+C:\Users\Desi\source\repos\Methods-Lab\10.MultiplyEvensByOdds\bin\Debug\netcoreapp3.1\10.MultiplyEvensByOdds.deps.json
+C:\Users\Desi\source\repos\Methods-Lab\10.MultiplyEvensByOdds\bin\Debug\netcoreapp3.1\10.MultiplyEvensByOdds.runtimeconfig.json
+C:\Users\Desi\source\repos\Methods-Lab\10.MultiplyEvensByOdds\bin\Debug\netcoreapp3.1\10.MultiplyEvensByOdds.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\Methods-Lab\10.MultiplyEvensByOdds\bin\Debug\netcoreapp3.1\10.MultiplyEvensByOdds.dll
+C:\Users\Desi\source\repos\Methods-Lab\10.MultiplyEvensByOdds\bin\Debug\netcoreapp3.1\10.MultiplyEvensByOdds.pdb
+C:\Users\Desi\source\repos\Methods-Lab\10.MultiplyEvensByOdds\obj\Debug\netcoreapp3.1\10.MultiplyEvensByOdds.dll
+C:\Users\Desi\source\repos\Methods-Lab\10.MultiplyEvensByOdds\obj\Debug\netcoreapp3.1\10.MultiplyEvensByOdds.pdb
+C:\Users\Desi\source\repos\Methods-Lab\10.MultiplyEvensByOdds\obj\Debug\netcoreapp3.1\10.MultiplyEvensByOdds.genruntimeconfig.cache
