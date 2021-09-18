@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\4.OOP\1.Inheritance-Exercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\4.OOP\1.Inheritance-Exercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\4.OOP\1.Inheritance-Exercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.AssemblyInfo.cs
+C:\Users\Desi\source\repos\4.OOP\1.Inheritance-Exercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\4.OOP\1.Inheritance-Exercise\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.exe
+C:\Users\Desi\source\repos\4.OOP\1.Inheritance-Exercise\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.deps.json
+C:\Users\Desi\source\repos\4.OOP\1.Inheritance-Exercise\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.runtimeconfig.json
+C:\Users\Desi\source\repos\4.OOP\1.Inheritance-Exercise\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\4.OOP\1.Inheritance-Exercise\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.dll
+C:\Users\Desi\source\repos\4.OOP\1.Inheritance-Exercise\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.pdb
+C:\Users\Desi\source\repos\4.OOP\1.Inheritance-Exercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.dll
+C:\Users\Desi\source\repos\4.OOP\1.Inheritance-Exercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.pdb
+C:\Users\Desi\source\repos\4.OOP\1.Inheritance-Exercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\4.OOP\3.InterfaceАndAbstraction-Exercise\FoodShortage\bin\Debug\netcoreapp3.1\FoodShortage.exe
+C:\Users\Desi\source\repos\4.OOP\3.InterfaceАndAbstraction-Exercise\FoodShortage\bin\Debug\netcoreapp3.1\FoodShortage.deps.json
+C:\Users\Desi\source\repos\4.OOP\3.InterfaceАndAbstraction-Exercise\FoodShortage\bin\Debug\netcoreapp3.1\FoodShortage.runtimeconfig.json
+C:\Users\Desi\source\repos\4.OOP\3.InterfaceАndAbstraction-Exercise\FoodShortage\bin\Debug\netcoreapp3.1\FoodShortage.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\4.OOP\3.InterfaceАndAbstraction-Exercise\FoodShortage\bin\Debug\netcoreapp3.1\FoodShortage.dll
+C:\Users\Desi\source\repos\4.OOP\3.InterfaceАndAbstraction-Exercise\FoodShortage\bin\Debug\netcoreapp3.1\FoodShortage.pdb
+C:\Users\Desi\source\repos\4.OOP\3.InterfaceАndAbstraction-Exercise\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\4.OOP\3.InterfaceАndAbstraction-Exercise\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\4.OOP\3.InterfaceАndAbstraction-Exercise\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.AssemblyInfo.cs
+C:\Users\Desi\source\repos\4.OOP\3.InterfaceАndAbstraction-Exercise\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\4.OOP\3.InterfaceАndAbstraction-Exercise\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.dll
+C:\Users\Desi\source\repos\4.OOP\3.InterfaceАndAbstraction-Exercise\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.pdb
+C:\Users\Desi\source\repos\4.OOP\3.InterfaceАndAbstraction-Exercise\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.genruntimeconfig.cache

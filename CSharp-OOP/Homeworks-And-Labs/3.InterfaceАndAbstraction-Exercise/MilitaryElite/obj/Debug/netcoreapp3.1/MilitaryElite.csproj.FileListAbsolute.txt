@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\4.OOP\3.InterfaceАndAbstraction-Exercise\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.exe
+C:\Users\Desi\source\repos\4.OOP\3.InterfaceАndAbstraction-Exercise\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.deps.json
+C:\Users\Desi\source\repos\4.OOP\3.InterfaceАndAbstraction-Exercise\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.runtimeconfig.json
+C:\Users\Desi\source\repos\4.OOP\3.InterfaceАndAbstraction-Exercise\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\4.OOP\3.InterfaceАndAbstraction-Exercise\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.dll
+C:\Users\Desi\source\repos\4.OOP\3.InterfaceАndAbstraction-Exercise\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.pdb
+C:\Users\Desi\source\repos\4.OOP\3.InterfaceАndAbstraction-Exercise\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\4.OOP\3.InterfaceАndAbstraction-Exercise\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\4.OOP\3.InterfaceАndAbstraction-Exercise\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.AssemblyInfo.cs
+C:\Users\Desi\source\repos\4.OOP\3.InterfaceАndAbstraction-Exercise\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\4.OOP\3.InterfaceАndAbstraction-Exercise\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.dll
+C:\Users\Desi\source\repos\4.OOP\3.InterfaceАndAbstraction-Exercise\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.pdb
+C:\Users\Desi\source\repos\4.OOP\3.InterfaceАndAbstraction-Exercise\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.genruntimeconfig.cache

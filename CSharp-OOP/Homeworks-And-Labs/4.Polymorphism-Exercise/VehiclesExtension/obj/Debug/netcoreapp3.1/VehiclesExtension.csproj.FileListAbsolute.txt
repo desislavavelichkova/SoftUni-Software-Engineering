@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\4.OOP\4.Polymorphism-Exercise\VehiclesExtension\bin\Debug\netcoreapp3.1\VehiclesExtension.exe
+C:\Users\Desi\source\repos\4.OOP\4.Polymorphism-Exercise\VehiclesExtension\bin\Debug\netcoreapp3.1\VehiclesExtension.deps.json
+C:\Users\Desi\source\repos\4.OOP\4.Polymorphism-Exercise\VehiclesExtension\bin\Debug\netcoreapp3.1\VehiclesExtension.runtimeconfig.json
+C:\Users\Desi\source\repos\4.OOP\4.Polymorphism-Exercise\VehiclesExtension\bin\Debug\netcoreapp3.1\VehiclesExtension.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\4.OOP\4.Polymorphism-Exercise\VehiclesExtension\bin\Debug\netcoreapp3.1\VehiclesExtension.dll
+C:\Users\Desi\source\repos\4.OOP\4.Polymorphism-Exercise\VehiclesExtension\bin\Debug\netcoreapp3.1\VehiclesExtension.pdb
+C:\Users\Desi\source\repos\4.OOP\4.Polymorphism-Exercise\VehiclesExtension\obj\Debug\netcoreapp3.1\VehiclesExtension.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\4.OOP\4.Polymorphism-Exercise\VehiclesExtension\obj\Debug\netcoreapp3.1\VehiclesExtension.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\4.OOP\4.Polymorphism-Exercise\VehiclesExtension\obj\Debug\netcoreapp3.1\VehiclesExtension.AssemblyInfo.cs
+C:\Users\Desi\source\repos\4.OOP\4.Polymorphism-Exercise\VehiclesExtension\obj\Debug\netcoreapp3.1\VehiclesExtension.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\4.OOP\4.Polymorphism-Exercise\VehiclesExtension\obj\Debug\netcoreapp3.1\VehiclesExtension.dll
+C:\Users\Desi\source\repos\4.OOP\4.Polymorphism-Exercise\VehiclesExtension\obj\Debug\netcoreapp3.1\VehiclesExtension.pdb
+C:\Users\Desi\source\repos\4.OOP\4.Polymorphism-Exercise\VehiclesExtension\obj\Debug\netcoreapp3.1\VehiclesExtension.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\4.OOP\3.InterfaceАndAbstraction-Exercise\Proba\bin\Debug\netcoreapp3.1\Proba.exe
+C:\Users\Desi\source\repos\4.OOP\3.InterfaceАndAbstraction-Exercise\Proba\bin\Debug\netcoreapp3.1\Proba.deps.json
+C:\Users\Desi\source\repos\4.OOP\3.InterfaceАndAbstraction-Exercise\Proba\bin\Debug\netcoreapp3.1\Proba.runtimeconfig.json
+C:\Users\Desi\source\repos\4.OOP\3.InterfaceАndAbstraction-Exercise\Proba\bin\Debug\netcoreapp3.1\Proba.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\4.OOP\3.InterfaceАndAbstraction-Exercise\Proba\bin\Debug\netcoreapp3.1\Proba.dll
+C:\Users\Desi\source\repos\4.OOP\3.InterfaceАndAbstraction-Exercise\Proba\bin\Debug\netcoreapp3.1\Proba.pdb
+C:\Users\Desi\source\repos\4.OOP\3.InterfaceАndAbstraction-Exercise\Proba\obj\Debug\netcoreapp3.1\Proba.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\4.OOP\3.InterfaceАndAbstraction-Exercise\Proba\obj\Debug\netcoreapp3.1\Proba.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\4.OOP\3.InterfaceАndAbstraction-Exercise\Proba\obj\Debug\netcoreapp3.1\Proba.AssemblyInfo.cs
+C:\Users\Desi\source\repos\4.OOP\3.InterfaceАndAbstraction-Exercise\Proba\obj\Debug\netcoreapp3.1\Proba.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\4.OOP\3.InterfaceАndAbstraction-Exercise\Proba\obj\Debug\netcoreapp3.1\Proba.dll
+C:\Users\Desi\source\repos\4.OOP\3.InterfaceАndAbstraction-Exercise\Proba\obj\Debug\netcoreapp3.1\Proba.pdb
+C:\Users\Desi\source\repos\4.OOP\3.InterfaceАndAbstraction-Exercise\Proba\obj\Debug\netcoreapp3.1\Proba.genruntimeconfig.cache

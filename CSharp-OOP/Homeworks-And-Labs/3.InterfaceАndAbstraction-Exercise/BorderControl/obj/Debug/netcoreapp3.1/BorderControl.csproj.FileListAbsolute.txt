@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\4.OOP\3.InterfaceАndAbstraction-Exercise\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.exe
+C:\Users\Desi\source\repos\4.OOP\3.InterfaceАndAbstraction-Exercise\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.deps.json
+C:\Users\Desi\source\repos\4.OOP\3.InterfaceАndAbstraction-Exercise\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.runtimeconfig.json
+C:\Users\Desi\source\repos\4.OOP\3.InterfaceАndAbstraction-Exercise\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\4.OOP\3.InterfaceАndAbstraction-Exercise\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.dll
+C:\Users\Desi\source\repos\4.OOP\3.InterfaceАndAbstraction-Exercise\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.pdb
+C:\Users\Desi\source\repos\4.OOP\3.InterfaceАndAbstraction-Exercise\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\4.OOP\3.InterfaceАndAbstraction-Exercise\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\4.OOP\3.InterfaceАndAbstraction-Exercise\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.AssemblyInfo.cs
+C:\Users\Desi\source\repos\4.OOP\3.InterfaceАndAbstraction-Exercise\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\4.OOP\3.InterfaceАndAbstraction-Exercise\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.dll
+C:\Users\Desi\source\repos\4.OOP\3.InterfaceАndAbstraction-Exercise\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.pdb
+C:\Users\Desi\source\repos\4.OOP\3.InterfaceАndAbstraction-Exercise\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.genruntimeconfig.cache

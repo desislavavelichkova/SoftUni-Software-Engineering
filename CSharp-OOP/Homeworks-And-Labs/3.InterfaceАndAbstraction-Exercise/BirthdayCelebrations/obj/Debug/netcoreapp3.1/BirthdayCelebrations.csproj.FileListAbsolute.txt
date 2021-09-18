@@ -1,0 +1,13 @@
+C:\Users\Desi\source\repos\4.OOP\3.InterfaceАndAbstraction-Exercise\BirthdayCelebrations\bin\Debug\netcoreapp3.1\BirthdayCelebrations.exe
+C:\Users\Desi\source\repos\4.OOP\3.InterfaceАndAbstraction-Exercise\BirthdayCelebrations\bin\Debug\netcoreapp3.1\BirthdayCelebrations.deps.json
+C:\Users\Desi\source\repos\4.OOP\3.InterfaceАndAbstraction-Exercise\BirthdayCelebrations\bin\Debug\netcoreapp3.1\BirthdayCelebrations.runtimeconfig.json
+C:\Users\Desi\source\repos\4.OOP\3.InterfaceАndAbstraction-Exercise\BirthdayCelebrations\bin\Debug\netcoreapp3.1\BirthdayCelebrations.runtimeconfig.dev.json
+C:\Users\Desi\source\repos\4.OOP\3.InterfaceАndAbstraction-Exercise\BirthdayCelebrations\bin\Debug\netcoreapp3.1\BirthdayCelebrations.dll
+C:\Users\Desi\source\repos\4.OOP\3.InterfaceАndAbstraction-Exercise\BirthdayCelebrations\bin\Debug\netcoreapp3.1\BirthdayCelebrations.pdb
+C:\Users\Desi\source\repos\4.OOP\3.InterfaceАndAbstraction-Exercise\BirthdayCelebrations\obj\Debug\netcoreapp3.1\BirthdayCelebrations.csprojAssemblyReference.cache
+C:\Users\Desi\source\repos\4.OOP\3.InterfaceАndAbstraction-Exercise\BirthdayCelebrations\obj\Debug\netcoreapp3.1\BirthdayCelebrations.AssemblyInfoInputs.cache
+C:\Users\Desi\source\repos\4.OOP\3.InterfaceАndAbstraction-Exercise\BirthdayCelebrations\obj\Debug\netcoreapp3.1\BirthdayCelebrations.AssemblyInfo.cs
+C:\Users\Desi\source\repos\4.OOP\3.InterfaceАndAbstraction-Exercise\BirthdayCelebrations\obj\Debug\netcoreapp3.1\BirthdayCelebrations.csproj.CoreCompileInputs.cache
+C:\Users\Desi\source\repos\4.OOP\3.InterfaceАndAbstraction-Exercise\BirthdayCelebrations\obj\Debug\netcoreapp3.1\BirthdayCelebrations.dll
+C:\Users\Desi\source\repos\4.OOP\3.InterfaceАndAbstraction-Exercise\BirthdayCelebrations\obj\Debug\netcoreapp3.1\BirthdayCelebrations.pdb
+C:\Users\Desi\source\repos\4.OOP\3.InterfaceАndAbstraction-Exercise\BirthdayCelebrations\obj\Debug\netcoreapp3.1\BirthdayCelebrations.genruntimeconfig.cache
